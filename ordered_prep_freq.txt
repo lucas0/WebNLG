@@ -1,0 +1,60 @@
+of{'count': 14662,'B-GPE': 5097,'I-ORGANIZATION': 67,'O': 6516,'B-PERSON': 1158,'B-GSP': 7,'B-ORGANIZATION': 1817, 'NNP': 0}
+in{'count': 14444,'B-LOCATION': 4,'B-GPE': 7891,'O': 6281,'B-PERSON': 219,'B-FACILITY': 4,'B-GSP': 28,'B-ORGANIZATION': 17, 'NNP': 0}
+by{'count': 3652,'B-GPE': 46,'O': 1227,'B-PERSON': 1576,'B-ORGANIZATION': 803, 'NNP': 0}
+from{'count': 2803,'B-GPE': 781,'O': 1707,'B-PERSON': 32,'B-ORGANIZATION': 283, 'NNP': 0}
+as{'count': 1442,'B-GPE': 79,'O': 1208,'B-PERSON': 129,'B-ORGANIZATION': 26, 'NNP': 0}
+at{'count': 1418,'B-GPE': 73,'B-FACILITY': 104,'B-PERSON': 3,'O': 622,'B-GSP': 46,'B-ORGANIZATION': 570, 'NNP': 0}
+on{'count': 1365,'B-GPE': 31,'O': 1280,'B-PERSON': 20,'B-GSP': 2,'B-ORGANIZATION': 32, 'NNP': 0}
+with{'count': 1333,'B-GPE': 2,'O': 1122,'B-PERSON': 177,'B-ORGANIZATION': 32, 'NNP': 0}
+for{'count': 1091,'B-GPE': 15,'O': 426,'B-PERSON': 316,'B-GSP': 1,'B-ORGANIZATION': 333, 'NNP': 0}
+above{'count': 657,'O': 657, 'NNP': 0}
+that{'count': 191,'B-GPE': 1,'O': 183,'B-PERSON': 6,'B-ORGANIZATION': 1, 'NNP': 0}
+de{'count': 177,'B-GPE': 79,'O': 74,'B-PERSON': 18,'B-ORGANIZATION': 6, 'NNP': 0}
+under{'count': 113,'B-ORGANIZATION': 3,'B-PERSON': 3,'O': 107, 'NNP': 0}
+within{'count': 95,'B-PERSON': 4,'O': 80,'B-GPE': 11, 'NNP': 0}
+along{'count': 78,'O': 78, 'NNP': 0}
+than{'count': 58,'B-ORGANIZATION': 11,'O': 47, 'NNP': 0}
+before{'count': 55,'O': 55, 'NNP': 0}
+per{'count': 46,'O': 46, 'NNP': 0}
+among{'count': 41,'O': 41, 'NNP': 0}
+after{'count': 31,'B-GPE': 2,'O': 25,'B-PERSON': 3,'B-ORGANIZATION': 1, 'NNP': 0}
+while{'count': 29,'B-ORGANIZATION': 1,'B-PERSON': 7,'O': 21, 'NNP': 0}
+although{'count': 23,'B-GPE': 4,'O': 15,'B-PERSON': 3,'B-ORGANIZATION': 1, 'NNP': 0}
+like{'count': 23,'B-GPE': 2,'O': 16,'B-PERSON': 3,'B-ORGANIZATION': 2, 'NNP': 0}
+about{'count': 20,'B-PERSON': 2,'B-GPE': 1,'O': 17, 'NNP': 0}
+over{'count': 18,'B-LOCATION': 1,'B-GPE': 10,'O': 7, 'NNP': 0}
+near{'count': 17,'B-ORGANIZATION': 11,'O': 4,'B-GPE': 2, 'NNP': 0}
+via{'count': 15,'O': 15, 'NNP': 0}
+between{'count': 14,'B-PERSON': 1,'O': 13, 'NNP': 0}
+below{'count': 14,'O': 14, 'NNP': 0}
+since{'count': 12,'O': 12, 'NNP': 0}
+throughout{'count': 11,'B-PERSON': 1,'B-GPE': 5,'O': 5, 'NNP': 0}
+if{'count': 11,'B-PERSON': 2,'O': 8,'B-GPE': 1, 'NNP': 0}
+into{'count': 9,'B-PERSON': 1,'O': 4,'B-GPE': 4, 'NNP': 0}
+potato{'count': 9,'O': 9, 'NNP': 0}
+up{'count': 9,'O': 9, 'NNP': 0}
+during{'count': 8,'O': 8, 'NNP': 0}
+behind{'count': 7,'B-GPE': 7, 'NNP': 0}
+pedas{'count': 7,'O': 7, 'NNP': 0}
+leaf{'count': 6,'O': 6, 'NNP': 0}
+tomato{'count': 6,'O': 6, 'NNP': 0}
+motto{'count': 5,'O': 5, 'NNP': 0}
+through{'count': 4,'B-GPE': 3,'O': 1, 'NNP': 0}
+onto{'count': 4,'O': 4, 'NNP': 0}
+around{'count': 4,'O': 4, 'NNP': 0}
+white{'count': 3,'O': 3, 'NNP': 0}
+until{'count': 3,'O': 3, 'NNP': 0}
+though{'count': 3,'O': 3, 'NNP': 0}
+out{'count': 3,'O': 3, 'NNP': 0}
+because{'count': 2,'O': 2, 'NNP': 0}
+despite{'count': 2,'O': 2, 'NNP': 0}
+belong{'count': 2,'O': 2, 'NNP': 0}
+aboard{'count': 2,'O': 2, 'NNP': 0}
+reside{'count': 1,'O': 1, 'NNP': 0}
+except{'count': 1,'B-PERSON': 1, 'NNP': 0}
+hugh{'count': 1,'B-PERSON': 1, 'NNP': 0}
+overseen{'count': 1,'O': 1, 'NNP': 0}
+so{'count': 1,'O': 1, 'NNP': 0}
+constructionof{'count': 1,'O': 1, 'NNP': 0}
+ 
+ 

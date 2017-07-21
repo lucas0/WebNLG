@@ -1,0 +1,289 @@
+located{'count': 2757, 'on': 55, 'of': 1, 'within': 49, 'near': 1, 'at': 256, 'in': 2383, 'by': 12}
+is{'count': 1647, 'on': 1, 'about': 8, 'from': 532, 'for': 11, 'that': 7, 'of': 35, 'within': 6, 'tomato': 3, 'near': 2, 'at': 45, 'above': 1, 'in': 992, 'under': 2, 'motto': 1, 'with': 1}
+born{'count': 876, 'on': 182, 'as': 1, 'with': 1, 'in': 692}
+found{'count': 729, 'on': 14, 'within': 1, 'in': 697, 'as': 2, 'at': 6, 'under': 1, 'throughout': 1, 'with': 1, 'by': 5, 'if': 1}
+comes{'count': 660, 'with': 1, 'under': 42, 'from': 611, 'in': 6}
+published{'count': 530, 'by': 291, 'in': 239}
+served{'count': 514, 'on': 6, 'for': 16, 'under': 2, 'as': 256, 'at': 9, 'in': 27, 'with': 50, 'by': 147, 'aboard': 1}
+written{'count': 481, 'after': 3, 'as': 1, 'in': 267, 'by': 209, 'before': 1}
+operated{'count': 479, 'from': 1, 'by': 478}
+established{'count': 442, 'on': 41, 'since': 1, 'at': 2, 'in': 396, 'by': 2}
+created{'count': 365, 'within': 1, 'at': 2, 'by': 318, 'in': 44}
+graduated{'count': 350, 'from': 280, 'for': 1, 'in': 26, 'with': 42, 'by': 1}
+known{'count': 333, 'for': 10, 'in': 4, 'as': 302, 'under': 3, 'by': 14}
+made{'count': 326, 'on': 1, 'from': 98, 'of': 140, 'in': 31, 'throughout': 1, 'with': 55}
+died{'count': 320, 'on': 32, 'at': 2, 'in': 286}
+affiliated{'count': 315, 'with': 315}
+completed{'count': 303, 'on': 35, 'with': 2, 'in': 266}
+played{'count': 296, 'for': 147, 'at': 4, 'in': 143, 'during': 1, 'with': 1}
+spoken{'count': 283, 'throughout': 1, 'by': 3, 'within': 1, 'in': 278}
+originates{'count': 271, 'from': 252, 'in': 19}
+designed{'count': 269, 'with': 1, 'by': 250, 'in': 18}
+plays{'count': 248, 'at': 19, 'for': 219, 'in': 10}
+led{'count': 239, 'by': 239}
+lead{'count': 213, 'via': 11, 'by': 202}
+owned{'count': 168, 'by': 168}
+retired{'count': 149, 'on': 114, 'from': 3, 'after': 1, 'as': 2, 'in': 29}
+selected{'count': 141, 'from': 1, 'for': 2, 'that': 1, 'as': 6, 'in': 1, 'by': 130}
+are{'count': 139, 'on': 2, 'about': 1, 'from': 41, 'around': 2, 'among': 9, 'of': 1, 'that': 1, 'near': 1, 'at': 6, 'in': 75}
+preceded{'count': 137, 'by': 137}
+based{'count': 129, 'on': 6, 'at': 15, 'in': 108}
+founded{'count': 114, 'on': 4, 'by': 22, 'in': 88}
+followed{'count': 109, 'by': 107, 'in': 2}
+play{'count': 94, 'out': 1, 'at': 6, 'for': 7, 'in': 80}
+used{'count': 87, 'on': 1, 'as': 4, 'by': 10, 'in': 72}
+constructed{'count': 77, 'between': 4, 'from': 4, 'at': 1, 'in': 68}
+was{'count': 75, 'on': 19, 'from': 5, 'among': 1, 'of': 2, 'as': 1, 'at': 25, 'in': 22}
+inaugurated{'count': 74, 'on': 66, 'in': 8}
+competed{'count': 71, 'in': 71}
+managed{'count': 67, 'by': 66, 'at': 1}
+situated{'count': 59, 'within': 2, 'at': 7, 'in': 50}
+killed{'count': 58, 'at': 3, 'in': 55}
+cooked{'count': 58, 'in': 58}
+chosen{'count': 56, 'by': 56}
+governed{'count': 53, 'through': 1, 'by': 52}
+originated{'count': 52, 'from': 13, 'in': 39}
+built{'count': 51, 'for': 1, 'in': 45, 'at': 2, 'between': 2, 'by': 1}
+influenced{'count': 48, 'by': 48}
+worked{'count': 44, 'on': 1, 'as': 24, 'at': 4, 'for': 15}
+starred{'count': 43, 'as': 2, 'in': 41}
+involved{'count': 43, 'with': 1, 'in': 42}
+eaten{'count': 42, 'by': 1, 'in': 41}
+aired{'count': 41, 'on': 38, 'by': 2, 'between': 1}
+hired{'count': 41, 'by': 40, 'in': 1}
+come{'count': 40, 'from': 40}
+went{'count': 36, 'on': 33, 'onto': 3}
+headquartered{'count': 36, 'at': 3, 'in': 33}
+began{'count': 34, 'on': 1, 'in': 33}
+were{'count': 33, 'among': 1, 'in': 32}
+produced{'count': 32, 'in': 32}
+fought{'count': 32, 'by': 1, 'in': 31}
+run{'count': 30, 'by': 30}
+performed{'count': 30, 'as': 30}
+competing{'count': 26, 'in': 26}
+edited{'count': 26, 'by': 26}
+compete{'count': 22, 'in': 22}
+started{'count': 21, 'on': 4, 'with': 1, 'in': 16}
+erected{'count': 20, 'in': 20}
+falls{'count': 20, 'within': 1, 'under': 19}
+inhabited{'count': 19, 'by': 19}
+included{'count': 18, 'along': 1, 'if': 1, 'in': 16}
+appeared{'count': 17, 'in': 17}
+authored{'count': 17, 'by': 17}
+lives{'count': 17, 'in': 17}
+categorised{'count': 16, 'as': 16}
+competes{'count': 16, 'in': 16}
+serve{'count': 16, 'as': 14, 'with': 2}
+associated{'count': 16, 'with': 16}
+commanded{'count': 16, 'by': 16}
+varied{'count': 16, 'by': 16}
+tenanted{'count': 15, 'by': 15}
+provided{'count': 13, 'by': 13}
+broadcasted{'count': 13, 'by': 13}
+picked{'count': 13, 'by': 12, 'in': 1}
+shown{'count': 12, 'on': 10, 'by': 2}
+won{'count': 12, 'by': 12}
+studied{'count': 12, 'at': 12}
+finished{'count': 12, 'in': 12}
+chicken{'count': 11, 'as': 2, 'in': 9}
+has{'count': 11, 'since': 10, 'for': 1}
+know{'count': 11, 'as': 10, 'that': 1}
+hails{'count': 11, 'from': 11}
+focused{'count': 11, 'on': 11}
+stars{'count': 11, 'in': 11}
+originating{'count': 11, 'from': 11}
+concerned{'count': 10, 'with': 10}
+headed{'count': 10, 'by': 10}
+codes{'count': 10, 'of': 1, 'for': 6, 'in': 3}
+playing{'count': 10, 'for': 2, 'in': 8}
+metres{'count': 9, 'above': 9}
+surfaced{'count': 9, 'with': 9}
+work{'count': 9, 'as': 1, 'for': 8}
+voiced{'count': 9, 'by': 9}
+offered{'count': 9, 'at': 8, 'by': 1}
+resides{'count': 8, 'in': 8}
+abbreviated{'count': 8, 'from': 1, 'as': 5, 'with': 1, 'by': 1}
+working{'count': 8, 'as': 1, 'with': 1, 'for': 6}
+broadcast{'count': 8, 'by': 8}
+football{'count': 8, 'for': 8}
+coming{'count': 8, 'from': 8}
+distributed{'count': 7, 'by': 7}
+sweet{'count': 7, 'potato': 7}
+originate{'count': 7, 'from': 7}
+almond{'count': 7, 'as': 7}
+graduating{'count': 7, 'with': 3, 'from': 3, 'in': 1}
+stands{'count': 7, 'for': 4, 'in': 3}
+positioned{'count': 7, 'with': 7}
+placed{'count': 7, 'in': 7}
+bombing{'count': 6, 'of': 6}
+affilaited{'count': 6, 'with': 6}
+organized{'count': 6, 'by': 6}
+status{'count': 6, 'by': 6}
+penned{'count': 6, 'by': 6}
+enjoyed{'count': 5, 'by': 2, 'in': 3}
+identified{'count': 5, 'by': 5}
+be{'count': 5, 'from': 1, 'at': 3, 'in': 1}
+southeast{'count': 5, 'of': 5}
+invented{'count': 5, 'by': 1, 'in': 4}
+printed{'count': 5, 'with': 2, 'in': 3}
+stories{'count': 5, 'in': 5}
+begun{'count': 5, 'in': 5}
+participated{'count': 5, 'in': 5}
+came{'count': 5, 'under': 1, 'after': 1, 'from': 2, 'before': 1}
+serving{'count': 4, 'on': 1, 'as': 3}
+being{'count': 4, 'behind': 1, 'from': 1, 'in': 2}
+consists{'count': 4, 'of': 4}
+goes{'count': 4, 'by': 4}
+flew{'count': 4, 'as': 4}
+comprised{'count': 4, 'of': 4}
+classified{'count': 4, 'as': 1, 'in': 3}
+parented{'count': 4, 'by': 4}
+ruled{'count': 4, 'by': 4}
+been{'count': 4, 'at': 2, 'in': 2}
+pudding{'count': 4, 'as': 2, 'from': 2}
+represented{'count': 4, 'by': 4}
+populated{'count': 4, 'by': 4}
+awarded{'count': 4, 'with': 3, 'by': 1}
+living{'count': 4, 'in': 4}
+appointed{'count': 4, 'as': 4}
+heard{'count': 4, 'of': 1, 'within': 1, 'in': 2}
+walked{'count': 4, 'in': 4}
+spent{'count': 4, 'at': 1, 'in': 3}
+developed{'count': 3, 'by': 3}
+dumpling{'count': 3, 'with': 3}
+crew{'count': 3, 'along': 3}
+southwest{'count': 3, 'of': 3}
+ranking{'count': 3, 'of': 2, 'for': 1}
+commemorated{'count': 3, 'by': 3}
+serves{'count': 3, 'as': 2, 'that': 1}
+added{'count': 3, 'on': 3}
+performs{'count': 3, 'as': 3}
+attended{'count': 3, 'as': 1, 'by': 1, 'in': 1}
+hosted{'count': 3, 'at': 3}
+put{'count': 3, 'into': 3}
+featured{'count': 3, 'in': 3}
+live{'count': 3, 'in': 3}
+classed{'count': 3, 'as': 2, 'in': 1}
+consist{'count': 3, 'of': 3}
+occupied{'count': 3, 'by': 3}
+battled{'count': 3, 'in': 3}
+'s{'count': 3, 'motto': 1, 'from': 1, 'in': 1}
+held{'count': 2, 'by': 2}
+northeast{'count': 2, 'of': 2}
+appears{'count': 2, 'in': 2}
+going{'count': 2, 'on': 2}
+categorized{'count': 2, 'as': 2}
+airing{'count': 2, 'on': 1, 'between': 1}
+bread{'count': 2, 'as': 2}
+potatoes{'count': 2, 'from': 2}
+focuses{'count': 2, 'on': 2}
+legislated{'count': 2, 'over': 1, 'by': 1}
+operates{'count': 2, 'from': 1, 'that': 1}
+opened{'count': 2, 'in': 2}
+contained{'count': 2, 'within': 1, 'in': 1}
+locaated{'count': 2, 'in': 2}
+stared{'count': 2, 'in': 2}
+frangipane{'count': 2, 'as': 2}
+prepared{'count': 2, 'with': 1, 'by': 1}
+ring{'count': 2, 'of': 2}
+east{'count': 2, 'of': 2}
+commenced{'count': 2, 'in': 2}
+controlled{'count': 2, 'by': 2}
+squid{'count': 2, 'among': 1, 'as': 1}
+dying{'count': 2, 'in': 2}
+flows{'count': 2, 'through': 2}
+inagurated{'count': 2, 'on': 2}
+crewed{'count': 1, 'by': 1}
+looks{'count': 1, 'after': 1}
+grounded{'count': 1, 'in': 1}
+covered{'count': 1, 'with': 1}
+veterans{'count': 1, 'of': 1}
+focussed{'count': 1, 'on': 1}
+punlished{'count': 1, 'in': 1}
+runs{'count': 1, 'through': 1}
+ended{'count': 1, 'in': 1}
+registered{'count': 1, 'in': 1}
+payed{'count': 1, 'in': 1}
+did{'count': 1, 'in': 1}
+meringue{'count': 1, 'as': 1}
+die{'count': 1, 'on': 1}
+heading{'count': 1, 'into': 1}
+legislates{'count': 1, 'in': 1}
+bacon{'count': 1, 'as': 1}
+locacted{'count': 1, 'in': 1}
+paired{'count': 1, 'with': 1}
+assisted{'count': 1, 'by': 1}
+milk{'count': 1, 'in': 1}
+looking{'count': 1, 'at': 1}
+remembered{'count': 1, 'by': 1}
+falling{'count': 1, 'under': 1}
+consisting{'count': 1, 'of': 1}
+filled{'count': 1, 'with': 1}
+origintes{'count': 1, 'from': 1}
+cames{'count': 1, 'from': 1}
+inabitated{'count': 1, 'by': 1}
+pedes{'count': 1, 'as': 1}
+locatedd{'count': 1, 'in': 1}
+inclusdes{'count': 1, 'tomato': 1}
+received{'count': 1, 'as': 1}
+locaed{'count': 1, 'in': 1}
+introduced{'count': 1, 'in': 1}
+genre{'count': 1, 'by': 1}
+reside{'count': 1, 'in': 1}
+purchased{'count': 1, 'via': 1}
+named{'count': 1, 'for': 1}
+originiates{'count': 1, 'from': 1}
+avocado{'count': 1, 'in': 1}
+neighboured{'count': 1, 'by': 1}
+names{'count': 1, 'of': 1}
+trained{'count': 1, 'as': 1}
+speak{'count': 1, 'in': 1}
+vegetables{'count': 1, 'from': 1}
+adopted{'count': 1, 'by': 1}
+attending{'count': 1, 'with': 1}
+resulted{'count': 1, 'in': 1}
+educated{'count': 1, 'at': 1}
+name{'count': 1, 'of': 1}
+formed{'count': 1, 'in': 1}
+occurred{'count': 1, 'after': 1}
+released{'count': 1, 'in': 1}
+crated{'count': 1, 'by': 1}
+had{'count': 1, 'as': 1}
+origins{'count': 1, 'in': 1}
+publshed{'count': 1, 'by': 1}
+recruited{'count': 1, 'by': 1}
+air{'count': 1, 'on': 1}
+districts{'count': 1, 'of': 1}
+oprated{'count': 1, 'by': 1}
+administrated{'count': 1, 'by': 1}
+achieved{'count': 1, 'by': 1}
+go{'count': 1, 'on': 1}
+bordered{'count': 1, 'by': 1}
+helped{'count': 1, 'by': 1}
+have{'count': 1, 'with': 1}
+organised{'count': 1, 'by': 1}
+overseen{'count': 1, 'by': 1}
+includes{'count': 1, 'tomato': 1}
+lemon{'count': 1, 'as': 1}
+retiring{'count': 1, 'on': 1}
+pay{'count': 1, 'for': 1}
+battles{'count': 1, 'in': 1}
+graduate{'count': 1, 'from': 1}
+build{'count': 1, 'in': 1}
+foundered{'count': 1, 'by': 1}
+conceived{'count': 1, 'by': 1}
+contructed{'count': 1, 'in': 1}
+inaugrated{'count': 1, 'on': 1}
+bounded{'count': 1, 'by': 1}
+fighting{'count': 1, 'in': 1}
+derives{'count': 1, 'from': 1}
+comanded{'count': 1, 'by': 1}
+building{'count': 1, 'at': 1}
+augurated{'count': 1, 'on': 1}
+piloted{'count': 1, 'by': 1}
+locates{'count': 1, 'in': 1}
+looked{'count': 1, 'after': 1}
+partnered{'count': 1, 'on': 1}
+enrolled{'count': 1, 'in': 1}
+taro{'count': 1, 'as': 1}
+joining{'count': 1, 'as': 1}
