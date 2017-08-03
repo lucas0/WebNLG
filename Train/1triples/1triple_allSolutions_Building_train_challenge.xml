@@ -2,20 +2,20 @@
   <entries>
     <entry category="Building" eid="Id1" size="1">
       <originaltripleset>
-        <otriple>103 Colmore Row | architectural style | Brutalist architecture</otriple>
+        <otriple>103_Colmore_Row | architecturalStyle | Brutalist_architecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>103 Colmore Row | architectural style | Brutalist architecture</mtriple>
+        <mtriple>103_Colmore_Row | architecturalStyle | Brutalist_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architecture style of 103 Colmore Row falls under Brutalist architecture.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row is in the architectural style " Brutalist architecture".</lex>
     </entry>
     <entry category="Building" eid="Id2" size="1">
       <originaltripleset>
-        <otriple>103 Colmore Row | building start date | "1973"</otriple>
+        <otriple>103_Colmore_Row | buildingStartDate | "1973"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>103 Colmore Row | building start date | "1973"</mtriple>
+        <mtriple>103_Colmore_Row | buildingStartDate | "1973"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1973 was the start date for the building at 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">The building of 103 Colmore Row began in 1973.</lex>
@@ -23,23 +23,23 @@
     </entry>
     <entry category="Building" eid="Id3" size="1">
       <originaltripleset>
-        <otriple>103 Colmore Row | building end date | "1976"</otriple>
+        <otriple>103_Colmore_Row | buildingEndDate | "1976"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>103 Colmore Row | completion date | 1976</otriple>
+        <otriple>103_Colmore_Row | completionDate | 1976</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>103 Colmore Row | completion date | 1976</mtriple>
+        <mtriple>103_Colmore_Row | completionDate | 1976</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row was completed in 1976.</lex>
       <lex comment="good" lid="Id2">The building of 103 Colmore Row was completed in 1976.</lex>
     </entry>
     <entry category="Building" eid="Id4" size="1">
       <originaltripleset>
-        <otriple>103 Colmore Row | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>103_Colmore_Row | floorCount | "23"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>103 Colmore Row | floor count | 23</mtriple>
+        <mtriple>103_Colmore_Row | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 23 floors at 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row has 23 floors.</lex>
@@ -66,26 +66,26 @@
     </entry>
     <entry category="Building" eid="Id7" size="1">
       <originaltripleset>
-        <otriple>108 St Georges Terrace | building start date | "1981"</otriple>
+        <otriple>108_St_Georges_Terrace | buildingStartDate | "1981"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>108 St Georges Terrace | start date | 1981</otriple>
+        <otriple>108_St_Georges_Terrace | startDate | 1981</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>108 St Georges Terrace | building start date | 1981</mtriple>
+        <mtriple>108_St_Georges_Terrace | buildingStartDate | 1981</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The construction of 108 St Georges Terrace began in 1981.</lex>
       <lex comment="good" lid="Id2">The building of 108 St. Georges Terrace was started in 1981.</lex>
     </entry>
     <entry category="Building" eid="Id8" size="1">
       <originaltripleset>
-        <otriple>108 St Georges Terrace | completion date | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>108 St Georges Terrace | building end date | "1988"</otriple>
+        <otriple>108_St_Georges_Terrace | buildingEndDate | "1988"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>108 St Georges Terrace | completion date | 1988</mtriple>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace was completed in 1988.</lex>
     </entry>
@@ -102,22 +102,22 @@
     </entry>
     <entry category="Building" eid="Id10" size="1">
       <originaltripleset>
-        <otriple>108 St Georges Terrace | floor area | "39500.0"^^xsd:double</otriple>
+        <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>108 St Georges Terrace |  building/floor area | "39500.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>108_St_Georges_Terrace | Building/floorArea | "39500.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>108 St Georges Terrace | floor area | 39500.0 (square metres)</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St. Georges Terrace has a floor area of 39599.0 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id11" size="1">
       <originaltripleset>
-        <otriple>108 St Georges Terrace | floor count | 50</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>108 St Georges Terrace | floor count | 50</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace has a floor count of 50.</lex>
       <lex comment="good" lid="Id2">There are 50 floors at 108 St Georges Terrace.</lex>
@@ -143,10 +143,10 @@
     </entry>
     <entry category="Building" eid="Id14" size="1">
       <originaltripleset>
-        <otriple>11 Diagonal Street | building start date | "1978"</otriple>
+        <otriple>11_Diagonal_Street | buildingStartDate | "1978"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | building start date | "1978"</mtriple>
+        <mtriple>11_Diagonal_Street | buildingStartDate | "1978"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11 Diagonal Street originated in 1978.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street was built in 1978.</lex>
@@ -154,19 +154,19 @@
     </entry>
     <entry category="Building" eid="Id15" size="1">
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor area | "1200.0"^^xsd:double</otriple>
+        <otriple>11_Diagonal_Street | floorArea | "1200.0"^^xsd:double</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | floor area | 1200 (square metres)</mtriple>
+        <mtriple>11_Diagonal_Street | floorArea | 1200 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has a floor area of 1200 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id16" size="1">
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor count | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | floor count | 20</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors.</lex>
     </entry>
@@ -203,23 +203,23 @@
     </entry>
     <entry category="Building" eid="Id20" size="1">
       <originaltripleset>
-        <otriple>200 Public Square |  building/floor area | "111483.648"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>200_Public_Square | Building/floorArea | "111483.648"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>200 Public Square | floor area | "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
+        <otriple>200_Public_Square | floorArea | "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>200 Public Square | floor area | 111484 (square metres)</mtriple>
+        <mtriple>200_Public_Square | floorArea | 111484 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square has a floor area of 111484 square metres.</lex>
       <lex comment="good" lid="Id2">200 Public Square is 111484 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id21" size="1">
       <originaltripleset>
-        <otriple>200 Public Square | floor count | 45</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>200 Public Square | floor count | 45</mtriple>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 45 floors at 200 Public Square.</lex>
       <lex comment="good" lid="Id2">200 Public Square has a floor count of 45.</lex>
@@ -275,35 +275,35 @@
     </entry>
     <entry category="Building" eid="Id27" size="1">
       <originaltripleset>
-        <otriple>20 Fenchurch Street | completion date | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>20 Fenchurch Street | building end date | "April 2014"</otriple>
+        <otriple>20_Fenchurch_Street | buildingEndDate | "April 2014"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>20 Fenchurch Street | completion date | "April 2014"</mtriple>
+        <mtriple>20_Fenchurch_Street | completionDate | "April 2014"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street was completed in April of 2014.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street was completed in April 2014.</lex>
     </entry>
     <entry category="Building" eid="Id28" size="1">
       <originaltripleset>
-        <otriple>20 Fenchurch Street | floor area | "62145.3"^^xsd:double</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "62145.3"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>20 Fenchurch Street |  building/floor area | "62145.25893504"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>20_Fenchurch_Street | Building/floorArea | "62145.25893504"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>20 Fenchurch Street | floor area | 62145.3 (square metres)</mtriple>
+        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street has a floor area of 62145.3 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id29" size="1">
       <originaltripleset>
-        <otriple>20 Fenchurch Street | floor count | 34</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>20 Fenchurch Street | floor count | 34</mtriple>
+        <mtriple>20_Fenchurch_Street | floorCount | 34</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 34 floors at 20 Fenchurch Street.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street has a floor count of 34.</lex>
@@ -319,10 +319,10 @@
     </entry>
     <entry category="Building" eid="Id31" size="1">
       <originaltripleset>
-        <otriple>250 Delaware Avenue | building start date | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>250 Delaware Avenue | building start date | "January, 2014"</mtriple>
+        <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The construction of 250 Delaware Avenue began in January 2014.</lex>
       <lex comment="good" lid="Id2">The start date of building 250 Delaware Avenue was January 2014.</lex>
@@ -340,10 +340,10 @@
     </entry>
     <entry category="Building" eid="Id33" size="1">
       <originaltripleset>
-        <otriple>250 Delaware Avenue | floor area | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>250 Delaware Avenue | floor area | 30843.8 (square metres)</mtriple>
+        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has a floor area of 30843.8 square metres.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue has a floor area of 30843.8 (square metres).</lex>
@@ -351,10 +351,10 @@
     </entry>
     <entry category="Building" eid="Id34" size="1">
       <originaltripleset>
-        <otriple>250 Delaware Avenue | floor count | 12</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>250 Delaware Avenue | floor count | 12</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has 12 floors.</lex>
       <lex comment="good" lid="Id2">There are a total of 12 floors in 250 Delaware Avenue.</lex>
@@ -393,23 +393,23 @@
     </entry>
     <entry category="Building" eid="Id38" size="1">
       <originaltripleset>
-        <otriple>300 North LaSalle | completion date | 2009</otriple>
+        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>300 North LaSalle | building end date | "2009"</otriple>
+        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>300 North LaSalle | completion date | 2009</mtriple>
+        <mtriple>300_North_LaSalle | completionDate | 2009</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle was completed in 2009.</lex>
       <lex comment="good" lid="Id2">The building at 300 North LaSalle was completed in 2009.</lex>
     </entry>
     <entry category="Building" eid="Id39" size="1">
       <originaltripleset>
-        <otriple>300 North LaSalle |  building/floor area | "120770.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>300_North_LaSalle | Building/floorArea | "120770.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>300 North LaSalle | floor area | 120770.0 (square metres)</mtriple>
+        <mtriple>300_North_LaSalle | floorArea | 120770.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The floor area of 300 North LaSalle is 120770.0 square metres.</lex>
     </entry>
@@ -424,13 +424,13 @@
     </entry>
     <entry category="Building" eid="Id41" size="1">
       <originaltripleset>
-        <otriple>320 South Boston Building | building end date | "1929"</otriple>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>320 South Boston Building | completion date | 1929</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>320 South Boston Building | completion date | 1929</mtriple>
+        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The construction of 320 South Boston Building was completed in 1929.</lex>
       <lex comment="good" lid="Id2">320 South Boston was completed in 1929.</lex>
@@ -438,20 +438,20 @@
     </entry>
     <entry category="Building" eid="Id42" size="1">
       <originaltripleset>
-        <otriple>320 South Boston Building | floor count | 22</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>320 South Boston Building | floor count | 22</mtriple>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 22 floors in 320 South Boston Building.</lex>
       <lex comment="good" lid="Id2">The building at 320 South Boston Street has 22 floors.</lex>
     </entry>
     <entry category="Building" eid="Id43" size="1">
       <originaltripleset>
-        <otriple>320 South Boston Building | former name | "Exchange National Bank Building"@en</otriple>
+        <otriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>320 South Boston Building | former name | "Exchange National Bank Building"</mtriple>
+        <mtriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">320 South Boston Building was formerly called the Exchange National Bank Building.</lex>
       <lex comment="good" lid="Id2">The previous name of 320 South Boston Building was the Exchange National Bank Building.</lex>
@@ -479,23 +479,23 @@
     </entry>
     <entry category="Building" eid="Id46" size="1">
       <originaltripleset>
-        <otriple>3Arena | building type | "Concert and events venue"@en</otriple>
+        <otriple>3Arena | buildingType | "Concert and events venue"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>3Arena | building type | "Concert and events venue"</mtriple>
+        <mtriple>3Arena | buildingType | "Concert and events venue"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is a concerts and events venue type building.</lex>
       <lex comment="good" lid="Id2">The 3Arena hosts concerts and events.</lex>
     </entry>
     <entry category="Building" eid="Id47" size="1">
       <originaltripleset>
-        <otriple>3Arena | building end date | "December 2008"</otriple>
+        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>3Arena | completion date | "December 2008"@en</otriple>
+        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>3Arena | completion date | "December 2008"</mtriple>
+        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The completion date of 3Arena is December 2008.</lex>
       <lex comment="good" lid="Id2">The 3Arena was completed in December 2008.</lex>
@@ -577,10 +577,10 @@
     </entry>
     <entry category="Building" eid="Id55" size="1">
       <originaltripleset>
-        <otriple>AC Hotel Bella Sky Copenhagen | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>AC Hotel Bella Sky Copenhagen | floor count | 23</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky Copenhagen has 23 floors.</lex>
       <lex comment="good" lid="Id2">There are 23 floors in the AC Hotel Bella Sky Copenhagen.</lex>
@@ -633,13 +633,13 @@
     </entry>
     <entry category="Building" eid="Id60" size="1">
       <originaltripleset>
-        <otriple>Adare | subdivision name | Munster</otriple>
+        <otriple>Adare | subdivisionName | Munster</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adare | is part of | Munster</otriple>
+        <otriple>Adare | isPartOf | Munster</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adare | is part of | Munster</mtriple>
+        <mtriple>Adare | isPartOf | Munster</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare is part of Munster.</lex>
     </entry>
@@ -697,13 +697,13 @@
     </entry>
     <entry category="Building" eid="Id66" size="1">
       <originaltripleset>
-        <otriple>Adare Manor | completion date | 1862</otriple>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adare Manor | building end date | "1862"</otriple>
+        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adare Manor | completion date | 1862</mtriple>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The construction of Adare Manor was completed in 1862.</lex>
       <lex comment="good" lid="Id2">Adare Manor was completed in 1862.</lex>
@@ -711,7 +711,7 @@
     </entry>
     <entry category="Building" eid="Id67" size="1">
       <originaltripleset>
-        <otriple>Adare Manor | location town | Adare</otriple>
+        <otriple>Adare_Manor | locationTown | Adare</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | location | Adare</otriple>
@@ -723,7 +723,7 @@
     </entry>
     <entry category="Building" eid="Id68" size="1">
       <originaltripleset>
-        <otriple>Adare Manor | location town | County Limerick</otriple>
+        <otriple>Adare_Manor | locationTown | County_Limerick</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | location | County_Limerick</otriple>
@@ -757,10 +757,10 @@
     </entry>
     <entry category="Building" eid="Id71" size="1">
       <originaltripleset>
-        <otriple>Addis Ababa | is part of | Addis Ababa Stadium</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa | is part of | Addis Ababa Stadium</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa Stadium is part of Addid Ababa.</lex>
       <lex comment="good" lid="Id2">Addis Ababa Stadium is situated in Addis Ababa.</lex>
@@ -768,10 +768,10 @@
     </entry>
     <entry category="Building" eid="Id72" size="1">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | start date | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | building start date | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Building started on the Addis Ababa City Hall in 1961.</lex>
       <lex comment="good" lid="Id2">The start date for building Addis Ababa City Hall was 1961.</lex>
@@ -779,20 +779,20 @@
     </entry>
     <entry category="Building" eid="Id73" size="1">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | building type | Seat of local government</otriple>
+        <otriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | building type | Seat of local government</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addis Ababa City Hall is the seat of the local government.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall is the seat of Local Government.</lex>
     </entry>
     <entry category="Building" eid="Id74" size="1">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | completion date | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | completion date | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addid Ababa City Hall was completed in 1964.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall's completion date was in 1964.</lex>
@@ -811,10 +811,10 @@
     </entry>
     <entry category="Building" eid="Id76" size="1">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | current tenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | current tenants | "Government of Addis Ababa"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall.</lex>
       <lex comment="good" lid="Id2">The Government of Addis Ababa is the current tenants of the Addis Ababa city hall.</lex>
@@ -822,13 +822,13 @@
     </entry>
     <entry category="Building" eid="Id77" size="1">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall |  building/floor area | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | Building/floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | floor area | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The floor area of Addis Ababa City Hall is 140000.0 (square metres).</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall has a 140000.0 (square metres) floor area.</lex>
@@ -866,10 +866,10 @@
     </entry>
     <entry category="Building" eid="Id81" size="1">
       <originaltripleset>
-        <otriple>Adisham Hall | architectural style | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | architectural style | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Halls Architectural style`is Tudor and Jacabian.</lex>
       <lex comment="good" lid="Id2">The architecture style of Adisham Hall is Tudor and Jacabian.</lex>
@@ -877,10 +877,10 @@
     </entry>
     <entry category="Building" eid="Id82" size="1">
       <originaltripleset>
-        <otriple>Adisham Hall | architectural style | Tudor Revival architecture</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | architectural style | Tudor Revival architecture</mtriple>
+        <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall has the Tudor Revival architectural style.</lex>
       <lex comment="good" lid="Id2">Adisham Hall has the architectural style 'Tudor Revival'.</lex>
@@ -888,23 +888,23 @@
     </entry>
     <entry category="Building" eid="Id83" size="1">
       <originaltripleset>
-        <otriple>Adisham Hall | building start date | "1927"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | building start date | "1927"</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Construction of Adisham Hall began in 1927.</lex>
       <lex comment="good" lid="Id2">Adisham Hall was begun to be built in 1927.</lex>
     </entry>
     <entry category="Building" eid="Id84" size="1">
       <originaltripleset>
-        <otriple>Adisham Hall | completion date | 1931</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adisham Hall | building end date | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | completion date | 1931</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall was completed in 1931.</lex>
       <lex comment="good" lid="Id2">The construction of Adisham Hall was completed in 1931.</lex>
@@ -915,7 +915,7 @@
         <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adisham Hall | location country | Sri Lanka</otriple>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
@@ -968,13 +968,13 @@
     </entry>
     <entry category="Building" eid="Id90" size="1">
       <originaltripleset>
-        <otriple>Akita, Akita | is part of | Akita Prefecture</otriple>
+        <otriple>Akita,_Akita | isPartOf | Akita_Prefecture</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita, Akita | subdivision name | Akita Prefecture</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Akita, Akita | is part of | Akita Prefecture</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita, Akita is part of Akita Prefecture.</lex>
     </entry>
@@ -1001,13 +1001,13 @@
     </entry>
     <entry category="Building" eid="Id93" size="1">
       <originaltripleset>
-        <otriple>Akita Museum of Art | floor area | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Akita_Museum_of_Art | floorArea | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art |  building/floor area | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Akita_Museum_of_Art | Building/floorArea | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Akita Museum of Art | floor area | 3746.66 (square metres)</mtriple>
+        <mtriple>Akita_Museum_of_Art | floorArea | 3746.66 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art has a floor area of 3746.66 (square metres).</lex>
       <lex comment="good" lid="Id2">The floor area of the Akita Museum of Art is 3746.66 square metres.</lex>
@@ -1015,17 +1015,17 @@
     </entry>
     <entry category="Building" eid="Id94" size="1">
       <originaltripleset>
-        <otriple>Akita Museum of Art | floor count | "3"^^xsd:positiveInteger</otriple>
+        <otriple>Akita_Museum_of_Art | floorCount | "3"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Akita Museum of Art | floor count | 3</mtriple>
+        <mtriple>Akita_Museum_of_Art | floorCount | 3</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art has 3 floors.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art 3 floors.</lex>
     </entry>
     <entry category="Building" eid="Id95" size="1">
       <originaltripleset>
-        <otriple>Akita Museum of Art | location town | Akita, Akita</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
@@ -1042,7 +1042,7 @@
         <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art | location town | Akita Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
@@ -1084,10 +1084,10 @@
     </entry>
     <entry category="Building" eid="Id100" size="1">
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | architectural style | Georgian architecture</otriple>
+        <otriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | architectural style | Georgian architecture</mtriple>
+        <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architectural style of the Alan B. Miller Hall is Georgian.</lex>
       <lex comment="good" lid="Id2">The architectural style of the Alan B Miller Hall is Georgian.</lex>
@@ -1095,26 +1095,26 @@
     </entry>
     <entry category="Building" eid="Id101" size="1">
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | start date | "2007-03-30"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | startDate | "2007-03-30"^^xsd:date</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | building start date | "30 March 2007"</otriple>
+        <otriple>Alan_B._Miller_Hall | buildingStartDate | "30 March 2007"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | building start date | "30 March 2007"</mtriple>
+        <mtriple>Alan_B._Miller_Hall | buildingStartDate | "30 March 2007"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B. Miller Hall's building start date was in 30th March 2007.</lex>
       <lex comment="good" lid="Id2">They started to build Alan B Miller Hall on 30 March, 2007.</lex>
     </entry>
     <entry category="Building" eid="Id102" size="1">
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | building end date | "1 June 2009"</otriple>
+        <otriple>Alan_B._Miller_Hall | buildingEndDate | "1 June 2009"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | completion date | "2009-06-01"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | completion date | "1 June 2009"</mtriple>
+        <mtriple>Alan_B._Miller_Hall | completionDate | "1 June 2009"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B. Miller Hall was completed on June 1st, 2009.</lex>
       <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on "1 June 2009".</lex>
@@ -1132,13 +1132,13 @@
     </entry>
     <entry category="Building" eid="Id104" size="1">
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | opening date | "2009-10-02"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | openingDate | "2009-10-02"^^xsd:date</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | inauguration date | "2009-10-02"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"^^xsd:date</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | inauguration date | "2009-10-02"</mtriple>
+        <mtriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"</mtriple>
       </modifiedtripleset>
       <lex comment="toFix" lid="Id1">Alan B. Miller Hall was in augurated on 2009-10-02.</lex>
       <lex comment="good" lid="Id2">Alan B. Miller Hall was inaugurated on "2009-10-02".</lex>
@@ -1176,36 +1176,36 @@
     </entry>
     <entry category="Building" eid="Id108" size="1">
       <originaltripleset>
-        <otriple>Alfred Giles (architect) | birth place | England</otriple>
+        <otriple>Alfred_Giles_(architect) | birthPlace | England</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alfred Giles (architect) | place of birth | England</otriple>
+        <otriple>Alfred_Giles_(architect) | placeOfBirth | England</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alfred Giles (architect) | birth place | England</mtriple>
+        <mtriple>Alfred_Giles_(architect) | birthPlace | England</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect Alfred Giles was born in England.</lex>
       <lex comment="good" lid="Id2">Architect, Alfred Giles was born in England.</lex>
     </entry>
     <entry category="Building" eid="Id109" size="1">
       <originaltripleset>
-        <otriple>Alfred Giles (architect) | place of death | Kendall County, Texas</otriple>
+        <otriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alfred Giles (architect) | place of death | Kendall County, Texas</mtriple>
+        <mtriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect Alfred Giles died in Kendall County, Texas.</lex>
       <lex comment="good" lid="Id2">The architect Alfred Giles died in Kendall County Texas.</lex>
     </entry>
     <entry category="Building" eid="Id110" size="1">
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | building end date | "1995"</otriple>
+        <otriple>Amdavad_ni_Gufa | buildingEndDate | "1995"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | completion date | 1995</otriple>
+        <otriple>Amdavad_ni_Gufa | completionDate | 1995</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Amdavad ni Gufa | completion date | 1995</mtriple>
+        <mtriple>Amdavad_ni_Gufa | completionDate | 1995</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa was completed in 1995.</lex>
     </entry>
@@ -1214,7 +1214,7 @@
         <otriple>Amdavad_ni_Gufa | country | India</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
@@ -1226,7 +1226,7 @@
         <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
@@ -1236,7 +1236,7 @@
     </entry>
     <entry category="Building" eid="Id113" size="1">
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
@@ -1248,13 +1248,13 @@
     </entry>
     <entry category="Building" eid="Id114" size="1">
       <originaltripleset>
-        <otriple>Ampara Hospital | bed count | "476"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Ampara_Hospital | beds | 476</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Ampara Hospital | bed count | 476</mtriple>
+        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The bed count of Ampara Hospital is 476.</lex>
       <lex comment="good" lid="Id2">Ampara Hospital has 476 beds.</lex>
@@ -1334,10 +1334,10 @@
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Asher and Mary Isabelle Richardson House | year of construction | "1911"^^xsd:gYear</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asher and Mary Isabelle Richardson House | year of construction | 1911</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House was built in 1911.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was constructed in 1911.</lex>
@@ -1355,32 +1355,32 @@
     </entry>
     <entry category="Building" eid="Id124" size="1">
       <originaltripleset>
-        <otriple>Asherton, Texas | subdivision name | Dimmit County, Texas</otriple>
+        <otriple>Asherton,_Texas | subdivisionName | Dimmit_County,_Texas</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Asherton, Texas | is part of | Dimmit County, Texas</otriple>
+        <otriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asherton, Texas | is part of | Dimmit County, Texas</mtriple>
+        <mtriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asherton, Texas is part of Dimmit County, Texas.</lex>
       <lex comment="good" lid="Id2">Asherton is part of Dimmit County, Texas.</lex>
     </entry>
     <entry category="Building" eid="Id125" size="1">
       <originaltripleset>
-        <otriple>Asherton, Texas | subdivision name | United States</otriple>
+        <otriple>Asherton,_Texas | subdivisionName | United_States</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asherton, Texas | is part of | United States</mtriple>
+        <mtriple>Asherton,_Texas | isPartOf | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asherton, Texas is part of the United States.</lex>
     </entry>
     <entry category="Building" eid="Id126" size="1">
       <originaltripleset>
-        <otriple>Asilomar Conference Grounds | nrhp reference number | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asilomar Conference Grounds |  reference number in the  national  register of  historic  places | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds has the reference number 87000823 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id2">The reference number in the the National Register of Historic Places for Asilomar Conference Grounds is 87000823.</lex>
@@ -1391,26 +1391,26 @@
         <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asilomar Conference Grounds | added to the  national  register of  historic  places | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987.</lex>
     </entry>
     <entry category="Building" eid="Id128" size="1">
       <originaltripleset>
-        <otriple>Asilomar Conference Grounds | architectural style | American Craftsman</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asilomar Conference Grounds | architectural style | American Craftsman</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds have the architectural style of American Craftsman.</lex>
     </entry>
     <entry category="Building" eid="Id129" size="1">
       <originaltripleset>
-        <otriple>Asilomar Conference Grounds | architectural style | Arts and Crafts movement</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asilomar Conference Grounds | architectural style | Arts and Crafts movement</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.</lex>
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.</lex>
@@ -1439,10 +1439,10 @@
     </entry>
     <entry category="Building" eid="Id132" size="1">
       <originaltripleset>
-        <otriple>Asser Levy Public Baths | nrhp reference number | "80002709"</otriple>
+        <otriple>Asser_Levy_Public_Baths | nrhpReferenceNumber | "80002709"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asser Levy Public Baths |  reference number in the  national  register of  historic  places | "80002709"</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | ReferenceNumber in the National Register of Historic Places | "80002709"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths has the reference number 80002709 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id2">The Reference Number in the National Register of Historic Places of Asser Levy Public Baths is 80002709.</lex>
@@ -1453,7 +1453,7 @@
         <otriple>Asser_Levy_Public_Baths | added | "1980-04-23"^^xsd:date</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asser Levy Public Baths | added to the  national  register of  historic  places | "1980-04-23"</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths was added to the National Register of Historic Places on 1980-04-23.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths was added to the National Register of Historic Places on "1980-04-23".</lex>
@@ -1461,10 +1461,10 @@
     </entry>
     <entry category="Building" eid="Id134" size="1">
       <originaltripleset>
-        <otriple>Asser Levy Public Baths | architectural style | Romanesque Revival architecture</otriple>
+        <otriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asser Levy Public Baths | architectural style | Romanesque Revival architecture</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asser Levy Public Baths have the Romanesque Revival style of architecture.</lex>
       <lex comment="good" lid="Id2">The Asser Levy Public Baths architectural style is that of Romanesque Revival.</lex>
@@ -1511,32 +1511,32 @@
     </entry>
     <entry category="Building" eid="Id139" size="1">
       <originaltripleset>
-        <otriple>Augustus Pugin | birth place | Bloomsbury</otriple>
+        <otriple>Augustus_Pugin | birthPlace | Bloomsbury</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Augustus Pugin | birth place | Bloomsbury</mtriple>
+        <mtriple>Augustus_Pugin | birthPlace | Bloomsbury</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The birth place of Augustus Pugin is Bloomsbury.</lex>
       <lex comment="good" lid="Id2">Augustus Pugin's birthplace is Bloomsbury.</lex>
     </entry>
     <entry category="Building" eid="Id140" size="1">
       <originaltripleset>
-        <otriple>Augustus Pugin | significant buildings | Palace of Westminster</otriple>
+        <otriple>Augustus_Pugin | significantBuildings | Palace_of_Westminster</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Augustus Pugin | significant building | Palace of Westminster</otriple>
+        <otriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Augustus Pugin | significant building | Palace of Westminster</mtriple>
+        <mtriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the significant buildings designed by Augustus Pugin is the Palace Of Westminster.</lex>
     </entry>
     <entry category="Building" eid="Id141" size="1">
       <originaltripleset>
-        <otriple>Birmingham | governing body | Birmingham City Council</otriple>
+        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | governing body | Birmingham City Council</mtriple>
+        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham's governing body is Birmingham City Council.</lex>
       <lex comment="good" lid="Id2">The Birmingham City Council is the governing body of Birmingham.</lex>
@@ -1544,57 +1544,57 @@
     </entry>
     <entry category="Building" eid="Id142" size="1">
       <originaltripleset>
-        <otriple>Birmingham | leader name | Andrew Mitchell</otriple>
+        <otriple>Birmingham | leaderName | Andrew_Mitchell</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | leader name | Andrew Mitchell</mtriple>
+        <mtriple>Birmingham | leaderName | Andrew_Mitchell</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Mitchell is the leader of Birmingham.</lex>
       <lex comment="good" lid="Id2">Birmingham's leader is Andrew Mitchell.</lex>
     </entry>
     <entry category="Building" eid="Id143" size="1">
       <originaltripleset>
-        <otriple>Birmingham | leader name | Conservative Party (UK)</otriple>
+        <otriple>Birmingham | leaderName | Conservative_Party_(UK)</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | leader name | Conservative Party (UK)</mtriple>
+        <mtriple>Birmingham | leaderName | Conservative_Party_(UK)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Birmingham is the Conservative Party (UK).</lex>
     </entry>
     <entry category="Building" eid="Id144" size="1">
       <originaltripleset>
-        <otriple>Birmingham | leader name | John Clancy (Labour politician)</otriple>
+        <otriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | leader name | John Clancy (Labour politician)</mtriple>
+        <mtriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Labour politician, John Clancy is the leader of Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id145" size="1">
       <originaltripleset>
-        <otriple>Birmingham | leader name | Khalid Mahmood (British politician)</otriple>
+        <otriple>Birmingham | leaderName | Khalid_Mahmood_(British_politician)</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | leader name | Khalid Mahmood (British politician)</mtriple>
+        <mtriple>Birmingham | leaderName | Khalid_Mahmood_(British_politician)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Khalid Mahmood (British politician) is one of the leaders of Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id146" size="1">
       <originaltripleset>
-        <otriple>Birmingham | leader name | Labour Party (UK)</otriple>
+        <otriple>Birmingham | leaderName | Labour_Party_(UK)</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | leader name | Labour Party (UK)</mtriple>
+        <mtriple>Birmingham | leaderName | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham Council is lead by the Labour Party (UK).</lex>
       <lex comment="good" lid="Id2">The Labour Party leads Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id147" size="1">
       <originaltripleset>
-        <otriple>Birmingham | leader name | Liberal Democrats</otriple>
+        <otriple>Birmingham | leaderName | Liberal_Democrats</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Birmingham | leader name | Liberal Democrats</mtriple>
+        <mtriple>Birmingham | leaderName | Liberal_Democrats</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Liberal Democrats are the leaders of Birmingham.</lex>
       <lex comment="good" lid="Id2">The leader of Birmingham are the Liberal Democrats.</lex>
@@ -1602,10 +1602,10 @@
     </entry>
     <entry category="Building" eid="Id148" size="1">
       <originaltripleset>
-        <otriple>Buffalo, New York | is part of | New York</otriple>
+        <otriple>Buffalo,_New_York | isPartOf | New_York</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Buffalo, New York | is part of | New York</mtriple>
+        <mtriple>Buffalo,_New_York | isPartOf | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buffalo New York is part of New York.</lex>
     </entry>
@@ -1622,20 +1622,20 @@
     </entry>
     <entry category="Building" eid="Id150" size="1">
       <originaltripleset>
-        <otriple>Chicago | is part of | Cook County, Illinois</otriple>
+        <otriple>Chicago | isPartOf | Cook_County,_Illinois</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Chicago | is part of | Cook County, Illinois</mtriple>
+        <mtriple>Chicago | isPartOf | Cook_County,_Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Chicago is part of Cook County, Illinois.</lex>
       <lex comment="good" lid="Id2">Chicago is in Cook County, Illinois.</lex>
     </entry>
     <entry category="Building" eid="Id151" size="1">
       <originaltripleset>
-        <otriple>Chicago | is part of | Illinois</otriple>
+        <otriple>Chicago | isPartOf | Illinois</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Chicago | is part of | Illinois</mtriple>
+        <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Chicago is part of Illinois.</lex>
       <lex comment="good" lid="Id2">Chicago is part of the State of Illinois.</lex>
@@ -1643,10 +1643,10 @@
     </entry>
     <entry category="Building" eid="Id152" size="1">
       <originaltripleset>
-        <otriple>Chicago | leader name | Rahm Emanuel</otriple>
+        <otriple>Chicago | leaderName | Rahm_Emanuel</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Chicago | leader name | Rahm Emanuel</mtriple>
+        <mtriple>Chicago | leaderName | Rahm_Emanuel</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rahm Emanuel is a leader in Chicago.</lex>
       <lex comment="good" lid="Id2">Chicago's leader is called Rahm Emanuel.</lex>
@@ -1654,10 +1654,10 @@
     </entry>
     <entry category="Building" eid="Id153" size="1">
       <originaltripleset>
-        <otriple>Chicago | leader name | Susana Mendoza</otriple>
+        <otriple>Chicago | leaderName | Susana_Mendoza</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Chicago | leader name | Susana Mendoza</mtriple>
+        <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Susana Mendoza is the leader of Chicago.</lex>
       <lex comment="good" lid="Id2">The leader of Chicago is Susana Mendoza.</lex>
@@ -1675,10 +1675,10 @@
     </entry>
     <entry category="Building" eid="Id155" size="1">
       <originaltripleset>
-        <otriple>Cleveland | governing body | Cleveland City Council</otriple>
+        <otriple>Cleveland | governingBody | Cleveland_City_Council</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Cleveland | governing body | Cleveland City Council</mtriple>
+        <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cleveland's governing body is Cleveland City Council.</lex>
       <lex comment="good" lid="Id2">The Cleveland City Council is the governing body of Cleveland.</lex>
@@ -1686,33 +1686,33 @@
     </entry>
     <entry category="Building" eid="Id156" size="1">
       <originaltripleset>
-        <otriple>Cleveland | is part of | Cuyahoga County, Ohio</otriple>
+        <otriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Cleveland | subdivision name | Cuyahoga County, Ohio</otriple>
+        <otriple>Cleveland | subdivisionName | Cuyahoga_County,_Ohio</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Cleveland | is part of | Cuyahoga County, Ohio</mtriple>
+        <mtriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cleveland is part of Cuyahoga County, Ohio.</lex>
       <lex comment="good" lid="Id2">Cleveland is part of the Cuyahoga County in Ohio.</lex>
     </entry>
     <entry category="Building" eid="Id157" size="1">
       <originaltripleset>
-        <otriple>Cleveland | is part of | Ohio</otriple>
+        <otriple>Cleveland | isPartOf | Ohio</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Cleveland | is part of | Ohio</mtriple>
+        <mtriple>Cleveland | isPartOf | Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cleveland is located within Ohio,.</lex>
       <lex comment="good" lid="Id2">Cleveland is part of Ohio.</lex>
     </entry>
     <entry category="Building" eid="Id158" size="1">
       <originaltripleset>
-        <otriple>Cleveland | leader name | Frank G. Jackson</otriple>
+        <otriple>Cleveland | leaderName | Frank_G._Jackson</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Cleveland | leader name | Frank G. Jackson</mtriple>
+        <mtriple>Cleveland | leaderName | Frank_G._Jackson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frank G Jackson is a leader in Cleveland.</lex>
       <lex comment="good" lid="Id2">the leader in Cleveland is Frank G Jackson.</lex>
@@ -1730,10 +1730,10 @@
     </entry>
     <entry category="Building" eid="Id160" size="1">
       <originaltripleset>
-        <otriple>County Limerick | government type | Limerick City and County Council</otriple>
+        <otriple>County_Limerick | governmentType | Limerick_City_and_County_Council</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>County Limerick | government type | Limerick City and County Council</mtriple>
+        <mtriple>County_Limerick | governmentType | Limerick_City_and_County_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">County Limerick is governed by the Limerick City and County Council.</lex>
       <lex comment="good" lid="Id2">Limerick City and County Council governs County Limerick.</lex>
@@ -1779,10 +1779,10 @@
     </entry>
     <entry category="Building" eid="Id165" size="1">
       <originaltripleset>
-        <otriple>Denmark | leader name | Lars Løkke Rasmussen</otriple>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Denmark | leader name | Lars Løkke Rasmussen</mtriple>
+        <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lars Lokke Rasmussen is Denmark's leader.</lex>
       <lex comment="good" lid="Id2">The leader of Denmark is Lars Løkke Rasmussen.</lex>
@@ -1790,39 +1790,39 @@
     </entry>
     <entry category="Building" eid="Id166" size="1">
       <originaltripleset>
-        <otriple>Denmark | leader name | Margrethe II of Denmark</otriple>
+        <otriple>Denmark | leaderName | Margrethe_II_of_Denmark</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Denmark | leader name | Margrethe II of Denmark</mtriple>
+        <mtriple>Denmark | leaderName | Margrethe_II_of_Denmark</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II of Denmark is the leader of Denmark.</lex>
       <lex comment="good" lid="Id2">Margrethe II of Denmark is the name of Denmark's leader.</lex>
     </entry>
     <entry category="Building" eid="Id167" size="1">
       <originaltripleset>
-        <otriple>Dublin | subdivision name | Republic of Ireland</otriple>
+        <otriple>Dublin | subdivisionName | Republic_of_Ireland</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Dublin | is part of | Republic of Ireland</mtriple>
+        <mtriple>Dublin | isPartOf | Republic_of_Ireland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dublin is part of the Republic of Ireland.</lex>
       <lex comment="good" lid="Id2">Dublin is a part of the Republic of Ireland.</lex>
     </entry>
     <entry category="Building" eid="Id168" size="1">
       <originaltripleset>
-        <otriple>Dublin | leader title | Dáil Éireann</otriple>
+        <otriple>Dublin | leaderTitle | Dáil_Éireann</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Dublin | leader title | Dáil Éireann</mtriple>
+        <mtriple>Dublin | leaderTitle | Dáil_Éireann</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dáil Éireann is a leader in Dublin.</lex>
     </entry>
     <entry category="Building" eid="Id169" size="1">
       <originaltripleset>
-        <otriple>Dublin | leader title | European Parliament</otriple>
+        <otriple>Dublin | leaderTitle | European_Parliament</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Dublin | leader title | European Parliament</mtriple>
+        <mtriple>Dublin | leaderTitle | European_Parliament</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dublin is lead by the European Parliament.</lex>
       <lex comment="good" lid="Id2">European Parliament is the title of the leader of Dublin.</lex>
@@ -1830,10 +1830,10 @@
     </entry>
     <entry category="Building" eid="Id170" size="1">
       <originaltripleset>
-        <otriple>Eastern Province, Sri Lanka | governing body | Eastern Provincial Council</otriple>
+        <otriple>Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Eastern Province, Sri Lanka | governing body | Eastern Provincial Council</mtriple>
+        <mtriple>Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The governing body of the Eastern Province Sri Lanka is the Eastern Provincial Council.</lex>
       <lex comment="good" lid="Id2">Eastern Provincial Council is the governing body of Eastern Province in Sri Lanka.</lex>
@@ -1841,10 +1841,10 @@
     </entry>
     <entry category="Building" eid="Id171" size="1">
       <originaltripleset>
-        <otriple>Eastern Province, Sri Lanka | leader name | Austin Fernando</otriple>
+        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Eastern Province, Sri Lanka | leader name | Austin Fernando</mtriple>
+        <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of the Eastern Province, Sri Lanka is Austin Fernando.</lex>
       <lex comment="good" lid="Id2">Austin Fernando is the leader of the Eastern Province of Sri Lanka.</lex>
@@ -1863,7 +1863,7 @@
     </entry>
     <entry category="Building" eid="Id173" size="1">
       <originaltripleset>
-        <otriple>Ethiopia | official language | Amharic</otriple>
+        <otriple>Ethiopia | officialLanguage | Amharic</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Ethiopia | language | Amharic</otriple>
@@ -1880,10 +1880,10 @@
         <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Ethiopia | leader name | Hailemariam Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Ethiopia | leader name | Hailemariam Desalegn</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Ethiopia is Hailemariam Desalegn.</lex>
       <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia.</lex>
@@ -1900,20 +1900,20 @@
     </entry>
     <entry category="Building" eid="Id176" size="1">
       <originaltripleset>
-        <otriple>Gujarat | leader name | Anandiben Patel</otriple>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Gujarat | leader name | Anandiben Patel</mtriple>
+        <mtriple>Gujarat | leaderName | Anandiben_Patel</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anandiben Patel is the leader of Gujarat.</lex>
       <lex comment="good" lid="Id2">Anandiben Patel was the leader of Gujurat.</lex>
     </entry>
     <entry category="Building" eid="Id177" size="1">
       <originaltripleset>
-        <otriple>Gujarat | leader title | Gujarat Legislative Assembly</otriple>
+        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Gujarat | leader title | Gujarat Legislative Assembly</mtriple>
+        <mtriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gujarat's leader is known as the Gujarat Legislative Assembly.</lex>
     </entry>
@@ -1950,13 +1950,13 @@
     </entry>
     <entry category="Building" eid="Id181" size="1">
       <originaltripleset>
-        <otriple>India | leader name | Narendra Modi</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>India | leader | Narendra_Modi</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>India | leader name | Narendra Modi</mtriple>
+        <mtriple>India | leaderName | Narendra_Modi</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Narendra Modi leads India.</lex>
       <lex comment="good" lid="Id2">The leader of India is Narendra Modi.</lex>
@@ -1964,13 +1964,13 @@
     </entry>
     <entry category="Building" eid="Id182" size="1">
       <originaltripleset>
-        <otriple>India | leader name | T. S. Thakur</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>India | leader | T._S._Thakur</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>India | leader name | T. S. Thakur</mtriple>
+        <mtriple>India | leaderName | T._S._Thakur</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">T S Thakur is a leader in India.</lex>
       <lex comment="good" lid="Id2">The leader of India is called T S Thakur.</lex>
@@ -1978,48 +1978,48 @@
     </entry>
     <entry category="Building" eid="Id183" size="1">
       <originaltripleset>
-        <otriple>Japan | ethnic group | Chinese people in Japan</otriple>
+        <otriple>Japan | ethnicGroup | Chinese_people_in_Japan</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | ethnic group | Chinese people in Japan</mtriple>
+        <mtriple>Japan | ethnicGroup | Chinese_people_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There is an ethnic group of Chinese people in Japan.</lex>
       <lex comment="good" lid="Id2">In Japan there is an ethnic group of Chinese people.</lex>
     </entry>
     <entry category="Building" eid="Id184" size="1">
       <originaltripleset>
-        <otriple>Japan | ethnic group | Filipinos in Japan</otriple>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | ethnic group | Filipinos in Japan</mtriple>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups in Japan is the Filipinos.</lex>
     </entry>
     <entry category="Building" eid="Id185" size="1">
       <originaltripleset>
-        <otriple>Japan | ethnic group | Japanese people</otriple>
+        <otriple>Japan | ethnicGroup | Japanese_people</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | ethnic group | Japanese people</mtriple>
+        <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
       </modifiedtripleset>
       <lex comment="toFix" lid="Id1">The main ethnic group in Japan is the Japanese.</lex>
     </entry>
     <entry category="Building" eid="Id186" size="1">
       <originaltripleset>
-        <otriple>Japan | ethnic group | Koreans in Japan</otriple>
+        <otriple>Japan | ethnicGroup | Koreans_in_Japan</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | ethnic group | Koreans in Japan</mtriple>
+        <mtriple>Japan | ethnicGroup | Koreans_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Japan has an ethnic group called Koreans in Japan.</lex>
       <lex comment="good" lid="Id2">Japan has an ethnic group of Koreans.</lex>
     </entry>
     <entry category="Building" eid="Id187" size="1">
       <originaltripleset>
-        <otriple>Japan | ethnic group | Vietnamese people in Japan</otriple>
+        <otriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | ethnic group | Vietnamese people in Japan</mtriple>
+        <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There is an ethnic group of Vietnamese people in Japan.</lex>
       <lex comment="good" lid="Id2">Vietnamese people in Japan are an ethnic group from Japan.</lex>
@@ -2029,7 +2029,7 @@
         <otriple>Japan | leader | Akihito</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | leader name | Akihito</mtriple>
+        <mtriple>Japan | leaderName | Akihito</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Japan is called Akihito.</lex>
       <lex comment="good" lid="Id2">The leader of Japan is Akihito.</lex>
@@ -2040,17 +2040,17 @@
         <otriple>Japan | leader | Shinzō_Abe</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | leader name | Shinzō Abe</mtriple>
+        <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Japan is Shinzō Abe.</lex>
       <lex comment="good" lid="Id2">Shinzo Abe is the leader of Japan.</lex>
     </entry>
     <entry category="Building" eid="Id190" size="1">
       <originaltripleset>
-        <otriple>John Madin | birth place | Birmingham</otriple>
+        <otriple>John_Madin | birthPlace | Birmingham</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>John Madin | birth place | Birmingham</mtriple>
+        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John Madin was born in Birmingham.</lex>
     </entry>
@@ -2066,63 +2066,63 @@
     </entry>
     <entry category="Building" eid="Id192" size="1">
       <originaltripleset>
-        <otriple>Julia Morgan | birth place | California</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Julia Morgan | birth place | California</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The birth place of Julia Morgan is California.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was born in California.</lex>
     </entry>
     <entry category="Building" eid="Id193" size="1">
       <originaltripleset>
-        <otriple>Julia Morgan | birth place | San Francisco</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Julia Morgan | birth place | San Francisco</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan was born in San Francisco.</lex>
     </entry>
     <entry category="Building" eid="Id194" size="1">
       <originaltripleset>
-        <otriple>Julia Morgan | significant building | Asilomar State Beach</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Julia Morgan | significant buildings | Asilomar State Beach</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Julia Morgan | significant building | Asilomar State Beach</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.</lex>
     </entry>
     <entry category="Building" eid="Id195" size="1">
       <originaltripleset>
-        <otriple>Julia Morgan | significant building | Chinatown, San Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Julia Morgan | significant building | Chinatown, San Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julie Morgan designed significant buildings in Chinatown, San Francisco.</lex>
       <lex comment="good" lid="Id2">Julia Morgan is the architect behind Chinatown in San Francisco.</lex>
     </entry>
     <entry category="Building" eid="Id196" size="1">
       <originaltripleset>
-        <otriple>Julia Morgan | significant building | Riverside Art Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Julia Morgan | significant buildings | Riverside Art Museum</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Julia Morgan | significant building | Riverside Art Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Riverside Art Musuem is one of Julia Morgan's significant buildings.</lex>
     </entry>
     <entry category="Building" eid="Id197" size="1">
       <originaltripleset>
-        <otriple>Julia Morgan | significant project | Hearst Castle</otriple>
+        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Julia Morgan | significant project | Hearst Castle</mtriple>
+        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hearst Castle was a significant project of Julia Morgan.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was the architect of the landmark Hearst Castle.</lex>
@@ -2130,48 +2130,48 @@
     </entry>
     <entry category="Building" eid="Id198" size="1">
       <originaltripleset>
-        <otriple>London | leader name | Boris Johnson</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>London | leader name | Boris Johnson</mtriple>
+        <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Boris Johnson is the leader in London.</lex>
       <lex comment="good" lid="Id2">The leader of London is called Boris Johnson.</lex>
     </entry>
     <entry category="Building" eid="Id199" size="1">
       <originaltripleset>
-        <otriple>London | leader title | European Parliament</otriple>
+        <otriple>London | leaderTitle | European_Parliament</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>London | leader title | European Parliament</mtriple>
+        <mtriple>London | leaderTitle | European_Parliament</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">London is lead via the European Parliament.</lex>
     </entry>
     <entry category="Building" eid="Id200" size="1">
       <originaltripleset>
-        <otriple>London | leader title | Parliament of the United Kingdom</otriple>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>London | leader title | Parliament of the United Kingdom</mtriple>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Parliament of the United Kingdom is the leader of London.</lex>
     </entry>
     <entry category="Building" eid="Id201" size="1">
       <originaltripleset>
-        <otriple>Manhattan | leader name | Cyrus Vance, Jr.</otriple>
+        <otriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Manhattan | leader name | Cyrus Vance, Jr.</mtriple>
+        <mtriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Manhattan is Cyrus Vance Jr.</lex>
       <lex comment="good" lid="Id2">Cyrus Vance Jr. is one of the leaders of Manhattan.</lex>
     </entry>
     <entry category="Building" eid="Id202" size="1">
       <originaltripleset>
-        <otriple>Manhattan | leader name | Gale Brewer</otriple>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Manhattan | leader name | Gale Brewer</mtriple>
+        <mtriple>Manhattan | leaderName | Gale_Brewer</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Manhattan is Gale Brewer.</lex>
       <lex comment="good" lid="Id2">Gale Brewer is the leader of Manhattan.</lex>
@@ -2181,10 +2181,10 @@
         <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Marriott International | foundation place | Washington, D.C.</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Marriott International | foundation place | Washington, D.C.</mtriple>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International was founded in Washington, D.C.</lex>
     </entry>
@@ -2221,36 +2221,36 @@
     </entry>
     <entry category="Building" eid="Id207" size="1">
       <originaltripleset>
-        <otriple>New York City | subdivision name | Brooklyn</otriple>
+        <otriple>New_York_City | subdivisionName | Brooklyn</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>New York City | is part of | Brooklyn</otriple>
+        <otriple>New_York_City | isPartOf | Brooklyn</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>New York City | is part of | Brooklyn</mtriple>
+        <mtriple>New_York_City | isPartOf | Brooklyn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Brooklyn is part of New York City.</lex>
       <lex comment="good" lid="Id2">Brooklyn is a part of New York City.</lex>
     </entry>
     <entry category="Building" eid="Id208" size="1">
       <originaltripleset>
-        <otriple>New York City | is part of | Manhattan</otriple>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>New York City | subdivision name | Manhattan</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>New York City | is part of | Manhattan</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Manhattan is part of New York City.</lex>
       <lex comment="good" lid="Id2">New York City is part of Manhattan.</lex>
     </entry>
     <entry category="Building" eid="Id209" size="1">
       <originaltripleset>
-        <otriple>New York City | is part of | New York</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>New York City | is part of | New York</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New York City is part of New York.</lex>
     </entry>
@@ -2311,13 +2311,13 @@
     </entry>
     <entry category="Building" eid="Id215" size="1">
       <originaltripleset>
-        <otriple>Republic of Ireland | leader name | Enda Kenny</otriple>
+        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Republic of Ireland | leader name | Enda Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | leaderName | Enda_Kenny</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of the Republic of Ireland is Enda Kenny.</lex>
     </entry>
@@ -2332,26 +2332,26 @@
     </entry>
     <entry category="Building" eid="Id217" size="1">
       <originaltripleset>
-        <otriple>South Africa | ethnic group | Asian South Africans</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>South Africa | ethnic groups | Asian South Africans</otriple>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>South Africa | ethnic group | Asian South Africans</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In South Africa there is an ethnic group of Asian South Africans.</lex>
       <lex comment="good" lid="Id2">One of the ethnic groups within South Africa is Asian South Africans.</lex>
     </entry>
     <entry category="Building" eid="Id218" size="1">
       <originaltripleset>
-        <otriple>South Africa | ethnic groups | Coloured</otriple>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>South Africa | ethnic group | Coloured</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>South Africa | ethnic group | Coloured</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of South Africa's ethnic groups are the Coloured.</lex>
       <lex comment="good" lid="Id2">Coloured people are an ethnic group in South Africa.</lex>
@@ -2361,10 +2361,10 @@
         <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>South Africa | leader name | Cyril Ramaphosa</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>South Africa | leader name | Cyril Ramaphosa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cyril Ramaphosa is the leader of South Africa.</lex>
       <lex comment="good" lid="Id2">Cyril Ramaphosa is one of the leaders of South Africa.</lex>
@@ -2375,10 +2375,10 @@
         <otriple>South_Africa | leader | Jacob_Zuma</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>South Africa | leader name | Jacob Zuma</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>South Africa | leader name | Jacob Zuma</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">South Africa's leader is called Jacob Zuma.</lex>
       <lex comment="good" lid="Id2">The leader of South Africa is Jacob Zuma.</lex>
@@ -2418,10 +2418,10 @@
         <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Sri Lanka | leader name | Ranil Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Sri Lanka | leader name | Ranil Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ranil Wickremesinghe is a leader of Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Sri Lanka's leader is called Ranil Wickremesinghe.</lex>
@@ -2459,19 +2459,19 @@
     </entry>
     <entry category="Building" eid="Id228" size="1">
       <originaltripleset>
-        <otriple>United States | ethnic group | African Americans</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | ethnic group | African Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups of the United States are the African Americans.</lex>
     </entry>
     <entry category="Building" eid="Id229" size="1">
       <originaltripleset>
-        <otriple>United States | ethnic group | Asian Americans</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | ethnic group | Asian Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ethnic group of the United States is Asian Americans.</lex>
       <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S.</lex>
@@ -2479,10 +2479,10 @@
     </entry>
     <entry category="Building" eid="Id230" size="1">
       <originaltripleset>
-        <otriple>United States | ethnic group | White Americans</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | ethnic group | White Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One United States ethnic group is White Americans.</lex>
     </entry>
@@ -2502,10 +2502,10 @@
         <otriple>United_States | leader | Barack_Obama</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>United States | leader name | Barack Obama</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader name | Barack Obama</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of the United States was Barack Obama.</lex>
       <lex comment="good" lid="Id2">Barack Obama is the leader of the U.S.</lex>
@@ -2513,13 +2513,13 @@
     </entry>
     <entry category="Building" eid="Id233" size="1">
       <originaltripleset>
-        <otriple>United States | leader name | Joe Biden</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>United_States | leader | Joe_Biden</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader name | Joe Biden</mtriple>
+        <mtriple>United_States | leaderName | Joe_Biden</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Joe Biden is a leader of the United States.</lex>
       <lex comment="good" lid="Id2">The leader of the United States is Joe Biden.</lex>
@@ -2527,23 +2527,23 @@
     </entry>
     <entry category="Building" eid="Id234" size="1">
       <originaltripleset>
-        <otriple>United States | leader name | John Roberts</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>United_States | leader | John_Roberts</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader name | John Roberts</mtriple>
+        <mtriple>United_States | leaderName | John_Roberts</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States of America`s Chief Justice is John Roberts.</lex>
       <lex comment="good" lid="Id2">John Roberts is a leader in the United States.</lex>
     </entry>
     <entry category="Building" eid="Id235" size="1">
       <originaltripleset>
-        <otriple>United States | leader title | President of the United States</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader title | President of the United States</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of the United States is known as the President of the United States.</lex>
       <lex comment="good" lid="Id2">The title of the leader of the United States is President of the United States.</lex>

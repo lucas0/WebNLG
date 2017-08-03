@@ -29,11 +29,11 @@
     <entry category="Building" eid="Id3" size="2">
       <originaltripleset>
         <otriple>103_Colmore_Row | architect | John_Madin</otriple>
-        <otriple>John Madin | birth place | Birmingham</otriple>
+        <otriple>John_Madin | birthPlace | Birmingham</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
-        <mtriple>John Madin | birth place | Birmingham</mtriple>
+        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row was designed by John Madin, born in Birmingham.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect John Madin who was born in Birmingham.</lex>
@@ -54,11 +54,11 @@
     </entry>
     <entry category="Building" eid="Id5" size="2">
       <originaltripleset>
-        <otriple>103 Colmore Row | building end date | "1976"</otriple>
+        <otriple>103_Colmore_Row | buildingEndDate | "1976"</otriple>
         <otriple>103_Colmore_Row | location | Colmore_Row</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>103 Colmore Row | completion date | 1976</mtriple>
+        <mtriple>103_Colmore_Row | completionDate | 1976</mtriple>
         <mtriple>103_Colmore_Row | location | Colmore_Row</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row at Colmore Row was completed in 1976.</lex>
@@ -68,14 +68,14 @@
     <entry category="Building" eid="Id6" size="2">
       <originaltripleset>
         <otriple>103_Colmore_Row | location | Colmore_Row</otriple>
-        <otriple>103 Colmore Row | floor count | 23</otriple>
+        <otriple>103_Colmore_Row | floorCount | 23</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>103 Colmore Row | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>103_Colmore_Row | floorCount | "23"^^xsd:positiveInteger</otriple>
         <otriple>103_Colmore_Row | location | Colmore_Row</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>103 Colmore Row | floor count | 23</mtriple>
+        <mtriple>103_Colmore_Row | floorCount | 23</mtriple>
         <mtriple>103_Colmore_Row | location | Colmore_Row</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row actually on Colmore Row has 23 floors.</lex>
@@ -83,15 +83,15 @@
     <entry category="Building" eid="Id7" size="2">
       <originaltripleset>
         <otriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"@en</otriple>
-        <otriple>103 Colmore Row | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>103_Colmore_Row | floorCount | "23"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"@en</otriple>
-        <otriple>103 Colmore Row | floor count | 23</otriple>
+        <otriple>103_Colmore_Row | floorCount | 23</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"</mtriple>
-        <mtriple>103 Colmore Row | floor count | 23</mtriple>
+        <mtriple>103_Colmore_Row | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 23 floors at 103 Colmore Row, Birmingham, England.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row is in Birmingham, England and has 23 floors.</lex>
@@ -113,15 +113,15 @@
     <entry category="Building" eid="Id9" size="2">
       <originaltripleset>
         <otriple>103_Colmore_Row | location | Birmingham</otriple>
-        <otriple>103 Colmore Row | floor count | 23</otriple>
+        <otriple>103_Colmore_Row | floorCount | 23</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>103_Colmore_Row | location | Birmingham</otriple>
-        <otriple>103 Colmore Row | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>103_Colmore_Row | floorCount | "23"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>103_Colmore_Row | location | Birmingham</mtriple>
-        <mtriple>103 Colmore Row | floor count | 23</mtriple>
+        <mtriple>103_Colmore_Row | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row, Birmingham is a building with 23 floors.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row, with 23 floors, is located in Birmingham.</lex>
@@ -129,24 +129,24 @@
     </entry>
     <entry category="Building" eid="Id10" size="2">
       <originaltripleset>
-        <otriple>108 St Georges Terrace | floor count | 50</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
         <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
-        <otriple>108 St Georges Terrace | floor count | "50"^^xsd:positiveInteger</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
-        <otriple>108 St Georges Terrace | floor count | 50</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
-        <otriple>108 St Georges Terrace | floor count | "50"^^xsd:positiveInteger</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
-        <mtriple>108 St Georges Terrace | floor count | 50</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace cost 120 million Australian dollars and has 50 floors.</lex>
       <lex comment="good" lid="Id2">108 St Georges Terrace has 50 floors and cost 120 million Australian dollars.</lex>
@@ -166,14 +166,14 @@
     <entry category="Building" eid="Id12" size="2">
       <originaltripleset>
         <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
-        <otriple>11 Diagonal Street | building end date | "1983"</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>11 Diagonal Street | building end date | "1983"</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
         <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | completion date | 1983</mtriple>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
         <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of 11 Diagonal Street, completed in 1983, was Helmut Jahn.</lex>
@@ -182,39 +182,39 @@
     </entry>
     <entry category="Building" eid="Id13" size="2">
       <originaltripleset>
-        <otriple>11 Diagonal Street | completion date | 1983</otriple>
-        <otriple>11 Diagonal Street | floor count | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>11 Diagonal Street | completion date | 1983</otriple>
-        <otriple>11 Diagonal Street | floor count | 20</otriple>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | completion date | 1983</mtriple>
-        <mtriple>11 Diagonal Street | floor count | 20</mtriple>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and was completed in 1983.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street was completed in 1983 and has 20 floors.</lex>
     </entry>
     <entry category="Building" eid="Id14" size="2">
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor count | 20</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
         <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor count | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
         <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor count | 20</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
         <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
-        <otriple>11 Diagonal Street | floor count | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | floor count | 20</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
         <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and was designed by Helmut Jahn.</lex>
@@ -222,15 +222,15 @@
       </entry>
     <entry category="Building" eid="Id15" size="2">
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor count | 20</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
         <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>11 Diagonal Street | floor count | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
         <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>11 Diagonal Street | floor count | 20</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
         <mtriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and is owned by Redefine Properties Limited.</lex>
@@ -251,11 +251,11 @@
     <entry category="Building" eid="Id17" size="2">
       <originaltripleset>
         <otriple>11_Diagonal_Street | location | South_Africa</otriple>
-        <otriple>South Africa | ethnic group | Asian South Africans</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
-        <mtriple>South Africa | ethnic group | Asian South Africans</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where there is an ethnic group of Asian South Africans.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is found in South Africa where one of the ethnic groups is Asian South Africans.</lex>
@@ -264,11 +264,11 @@
     <entry category="Building" eid="Id18" size="2">
       <originaltripleset>
         <otriple>11_Diagonal_Street | location | South_Africa</otriple>
-        <otriple>South Africa | ethnic group | White South African</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
-        <mtriple>South Africa | ethnic group | White South African</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa where white South Africans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa where White South Africans are one of the ethnic groups.</lex>
@@ -280,11 +280,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>11_Diagonal_Street | location | South_Africa</otriple>
-        <otriple>South Africa | leader name | Cyril Ramaphosa</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
-        <mtriple>South Africa | leader name | Cyril Ramaphosa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cyril Ramaphosa as a leader.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, a country led by Cyril Ramaphosa.</lex>
@@ -297,11 +297,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>11_Diagonal_Street | location | South_Africa</otriple>
-        <otriple>South Africa | leader name | Jacob Zuma</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
-        <mtriple>South Africa | leader name | Jacob Zuma</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where the leader is called Jacob Zuma.</lex>
       <lex comment="good" lid="Id2">Jacob Zuma is the leader of South Africa which is also the location of 11 Diagonal Street.</lex>
@@ -309,16 +309,16 @@
     </entry>
     <entry category="Building" eid="Id21" size="2">
       <originaltripleset>
-        <otriple>200 Public Square | floor count | "45"^^xsd:positiveInteger</otriple>
-        <otriple>200 Public Square | completion date | 1985</otriple>
+        <otriple>200_Public_Square | floorCount | "45"^^xsd:positiveInteger</otriple>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>200 Public Square | floor count | 45</otriple>
-        <otriple>200 Public Square | completion date | 1985</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>200 Public Square | floor count | 45</mtriple>
-        <mtriple>200 Public Square | completion date | 1985</mtriple>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
+        <mtriple>200_Public_Square | completionDate | 1985</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square, completed in 1985, has a floor count of 45.</lex>
       <lex comment="good" lid="Id2">200 Public Square finished in 1985 has 45 floors.</lex>
@@ -327,14 +327,14 @@
     <entry category="Building" eid="Id22" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | "Cleveland, Ohio 44114"@en</otriple>
-        <otriple>200 Public Square | floor count | "45"^^xsd:positiveInteger</otriple>
+        <otriple>200_Public_Square | floorCount | "45"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>200 Public Square | floor count | 45</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
         <otriple>200_Public_Square | location | "Cleveland, Ohio 44114"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>200 Public Square | floor count | 45</mtriple>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
         <mtriple>200_Public_Square | location | "Cleveland, Ohio 44114"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square, which has 45 floors, is located in Cleveland, Ohio 44114.</lex>
@@ -356,11 +356,11 @@
     <entry category="Building" eid="Id24" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
-        <otriple>Cleveland | governing body | Cleveland City Council</otriple>
+        <otriple>Cleveland | governingBody | Cleveland_City_Council</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>200_Public_Square | location | Cleveland</mtriple>
-        <mtriple>Cleveland | governing body | Cleveland City Council</mtriple>
+        <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is in Cleveland, governed by Cleveland City Council.</lex>
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland whose governing body is Cleveland City Council.</lex>
@@ -369,15 +369,15 @@
     <entry category="Building" eid="Id25" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
-        <otriple>Cleveland | is part of | Cuyahoga County, Ohio</otriple>
+        <otriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
-        <otriple>Cleveland | subdivision name | Cuyahoga County, Ohio</otriple>
+        <otriple>Cleveland | subdivisionName | Cuyahoga_County,_Ohio</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>200_Public_Square | location | Cleveland</mtriple>
-        <mtriple>Cleveland | is part of | Cuyahoga County, Ohio</mtriple>
+        <mtriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is located in Cleveland, Cuyahoga County, Ohio.</lex>
       <lex comment="good" lid="Id2">200 Public square is in Cleveland, which is part of Cuyahoga County, Ohio.</lex>
@@ -385,11 +385,11 @@
     <entry category="Building" eid="Id26" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
-        <otriple>Cleveland | is part of | Ohio</otriple>
+        <otriple>Cleveland | isPartOf | Ohio</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>200_Public_Square | location | Cleveland</mtriple>
-        <mtriple>Cleveland | is part of | Ohio</mtriple>
+        <mtriple>Cleveland | isPartOf | Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is found in Cleveland, Ohio.</lex>
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland, Ohio.</lex>
@@ -398,62 +398,62 @@
     <entry category="Building" eid="Id27" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
-        <otriple>Cleveland | leader name | Frank G. Jackson</otriple>
+        <otriple>Cleveland | leaderName | Frank_G._Jackson</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>200_Public_Square | location | Cleveland</mtriple>
-        <mtriple>Cleveland | leader name | Frank G. Jackson</mtriple>
+        <mtriple>Cleveland | leaderName | Frank_G._Jackson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public square is in Cleveland which is lead by Frank G Jackson.</lex>
       </entry>
     <entry category="Building" eid="Id28" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
-        <otriple>200 Public Square | floor count | 45</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
-        <otriple>200 Public Square | floor count | "45"^^xsd:positiveInteger</otriple>
+        <otriple>200_Public_Square | floorCount | "45"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>200_Public_Square | location | Public_Square,_Cleveland</mtriple>
-        <mtriple>200 Public Square | floor count | 45</mtriple>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is located at Public Square, Cleveland and has a floor count of 45.</lex>
       <lex comment="good" lid="Id2">200 Public Square has 45 floors and is located in Public Square, Cleveland.</lex>
     </entry>
     <entry category="Building" eid="Id29" size="2">
       <originaltripleset>
-        <otriple>20 Fenchurch Street | start date | "January 2009"@en</otriple>
-        <otriple>20 Fenchurch Street | floor area | "62145.3"^^xsd:double</otriple>
+        <otriple>20_Fenchurch_Street | startDate | "January 2009"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "62145.3"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>20 Fenchurch Street | start date | "January 2009"@en</otriple>
-        <otriple>20 Fenchurch Street | floor area | "Offices:"@en</otriple>
+        <otriple>20_Fenchurch_Street | startDate | "January 2009"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "Offices:"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>20 Fenchurch Street | building start date | "January 2009"</mtriple>
-        <mtriple>20 Fenchurch Street | floor area | 62145.3 (square metres)</mtriple>
+        <mtriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</mtriple>
+        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street has a floor area of 62145.3 square metres and was begun in January 2009.</lex>
       <lex comment="good" lid="Id2">Construction of 20 Fenchurch Street began in January 2009 and the building has a floor area of 62145.3 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id30" size="2">
       <originaltripleset>
-        <otriple>20 Fenchurch Street | completion date | "April 2014"@en</otriple>
-        <otriple>20 Fenchurch Street | floor area | "62145.3"^^xsd:double</otriple>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "62145.3"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>20 Fenchurch Street | completion date | "April 2014"@en</otriple>
-        <otriple>20 Fenchurch Street | floor area | "Offices:"@en</otriple>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "Offices:"@en</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>20 Fenchurch Street | floor area | "Offices:"@en</otriple>
-        <otriple>20 Fenchurch Street | building end date | "April 2014"</otriple>
+        <otriple>20_Fenchurch_Street | floorArea | "Offices:"@en</otriple>
+        <otriple>20_Fenchurch_Street | buildingEndDate | "April 2014"</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>20 Fenchurch Street | completion date | "April 2014"</mtriple>
-        <mtriple>20 Fenchurch Street | floor area | 62145.3 (square metres)</mtriple>
+        <mtriple>20_Fenchurch_Street | completionDate | "April 2014"</mtriple>
+        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square meters.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street, with a floor area of 62145.3 square metres, was completed in April of 2014.</lex>
@@ -461,16 +461,16 @@
     </entry>
     <entry category="Building" eid="Id31" size="2">
       <originaltripleset>
-        <otriple>20 Fenchurch Street | completion date | "April 2014"@en</otriple>
-        <otriple>20 Fenchurch Street | floor count | 34</otriple>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>20 Fenchurch Street | completion date | "April 2014"@en</otriple>
-        <otriple>20 Fenchurch Street | floor count | "34"^^xsd:positiveInteger</otriple>
+        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
+        <otriple>20_Fenchurch_Street | floorCount | "34"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>20 Fenchurch Street | completion date | "April 2014"</mtriple>
-        <mtriple>20 Fenchurch Street | floor count | 34</mtriple>
+        <mtriple>20_Fenchurch_Street | completionDate | "April 2014"</mtriple>
+        <mtriple>20_Fenchurch_Street | floorCount | 34</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street, which has a floor count of 34, was completed in April 2014.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street was completed in April 2014, and has 34 floors.</lex>
@@ -479,11 +479,11 @@
     <entry category="Building" eid="Id32" size="2">
       <originaltripleset>
         <otriple>20_Fenchurch_Street | location | London</otriple>
-        <otriple>London | leader name | Boris Johnson</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>20_Fenchurch_Street | location | London</mtriple>
-        <mtriple>London | leader name | Boris Johnson</mtriple>
+        <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Boris Johnson is the leader of London, the city where 20 Fenchurch Street is located.</lex>
       <lex comment="good" lid="Id2">The leader of London is Boris Johnson and is home to 20 Fenchurch Street.</lex>
@@ -491,11 +491,11 @@
     <entry category="Building" eid="Id33" size="2">
       <originaltripleset>
         <otriple>20_Fenchurch_Street | location | London</otriple>
-        <otriple>London | leader title | Parliament of the United Kingdom</otriple>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>20_Fenchurch_Street | location | London</mtriple>
-        <mtriple>London | leader title | Parliament of the United Kingdom</mtriple>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in London whose leader is the Parliament of the United Kingdom.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street is located in London, which is led by the parliament of the United Kingdom.</lex>
@@ -530,7 +530,7 @@
     <entry category="Building" eid="Id36" size="2">
       <originaltripleset>
         <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
-        <otriple>United Kingdom | leader name | Elizabeth II</otriple>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
@@ -538,7 +538,7 @@
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
-        <mtriple>United Kingdom | leader name | Elizabeth II</mtriple>
+        <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elizabeth 11 is a leader in the United Kingdom and 20 Fenchurch Street is also located in the United Kingdom.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom whose leader is Elizabeth II.</lex>
@@ -546,32 +546,32 @@
     </entry>
     <entry category="Building" eid="Id37" size="2">
       <originaltripleset>
-        <otriple>250 Delaware Avenue | building start date | "January, 2014"</otriple>
-        <otriple>250 Delaware Avenue | floor count | 12</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>250 Delaware Avenue | building start date | "January, 2014"</otriple>
-        <otriple>250 Delaware Avenue | floor count | "12"^^xsd:positiveInteger</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | "12"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>250 Delaware Avenue | building start date | "January, 2014"</mtriple>
-        <mtriple>250 Delaware Avenue | floor count | 12</mtriple>
+        <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Ave. was begun in January 2014 and has 12 floors.</lex>
       <lex comment="good" lid="Id2">The construction of 250 Delaware Avenue, which has 12 floors, began in January 2014.</lex>
     </entry>
     <entry category="Building" eid="Id38" size="2">
       <originaltripleset>
-        <otriple>250 Delaware Avenue | floor area | "30843.8"^^xsd:double</otriple>
-        <otriple>250 Delaware Avenue | floor count | 12</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>250 Delaware Avenue | floor area | "30843.8"^^xsd:double</otriple>
-        <otriple>250 Delaware Avenue | floor count | "12"^^xsd:positiveInteger</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | "12"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>250 Delaware Avenue | floor area | 30843.8 (square metres)</mtriple>
-        <mtriple>250 Delaware Avenue | floor count | 12</mtriple>
+        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has a floor area of 30853.8 square metres and has 12 floors.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
@@ -580,11 +580,11 @@
     <entry category="Building" eid="Id39" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>250 Delaware Avenue | architectural style | Postmodern architecture</otriple>
+        <otriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>250 Delaware Avenue | architectural style | Postmodern architecture</mtriple>
+        <mtriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is in Buffalo, New York, and it has the Postmodern style of architecture.</lex>
       <lex comment="good" lid="Id2">250 Delaware Ave. in Buffalo, N.Y. is a Postmodern style.</lex>
@@ -592,11 +592,11 @@
     <entry category="Building" eid="Id40" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>250 Delaware Avenue | floor area | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>250 Delaware Avenue | floor area | 30843.8 (square metres)</mtriple>
+        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue, Buffalo, New York, has a floor area of 30843.8 square metres.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is located in Buffalo, New York, and has a floor area of 30843.8 square metres.</lex>
@@ -605,15 +605,15 @@
     <entry category="Building" eid="Id41" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>250 Delaware Avenue | floor count | 12</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>250 Delaware Avenue | floor count | "12"^^xsd:positiveInteger</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | "12"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>250 Delaware Avenue | floor count | 12</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has a floor count of 12 and is located in Buffalo New York.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is a location in Buffalo, New York, with a floor count of 12.</lex>
@@ -622,15 +622,15 @@
     <entry category="Building" eid="Id42" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>Buffalo, New York | subdivision name | Erie County, New York</otriple>
+        <otriple>Buffalo,_New_York | subdivisionName | Erie_County,_New_York</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>Buffalo, New York | is part of | Erie County, New York</otriple>
+        <otriple>Buffalo,_New_York | isPartOf | Erie_County,_New_York</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>Buffalo, New York | is part of | Erie County, New York</mtriple>
+        <mtriple>Buffalo,_New_York | isPartOf | Erie_County,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is in Buffalo, New York which is in Erie County New York.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is located in Buffalo, New York, which is part of Erie County New York.</lex>
@@ -639,11 +639,11 @@
     <entry category="Building" eid="Id43" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>Buffalo, New York | is part of | New York</otriple>
+        <otriple>Buffalo,_New_York | isPartOf | New_York</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>Buffalo, New York | is part of | New York</mtriple>
+        <mtriple>Buffalo,_New_York | isPartOf | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is a location in Buffalo, New York, New York State.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is in Buffalo which is part of New York.</lex>
@@ -652,11 +652,11 @@
     <entry category="Building" eid="Id44" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>Buffalo, New York | leader name | Byron Brown</otriple>
+        <otriple>Buffalo,_New_York | leaderName | Byron_Brown</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>Buffalo, New York | leader name | Byron Brown</mtriple>
+        <mtriple>Buffalo,_New_York | leaderName | Byron_Brown</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Byron Brown is the leader of Buffalo, New York, where 250 Delaware Avenue is located.</lex>
       <lex comment="good" lid="Id2">240 Delaware Avenue is in Buffalo, New York, where Byron Brown is the leader.</lex>
@@ -665,26 +665,26 @@
     <entry category="Building" eid="Id45" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
-        <otriple>250 Delaware Avenue | architectural style | Postmodern architecture</otriple>
+        <otriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
-        <mtriple>250 Delaware Avenue | architectural style | Postmodern architecture</mtriple>
+        <mtriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has the Postmodern style of architecture and is located in the United States.</lex>
       </entry>
     <entry category="Building" eid="Id46" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
-        <otriple>250 Delaware Avenue | floor count | 12</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
-        <otriple>250 Delaware Avenue | floor count | "12"^^xsd:positiveInteger</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | "12"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
-        <mtriple>250 Delaware Avenue | floor count | 12</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has 12 floors and is located in the United States.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue (which has a total of 12 floors) is located in the United States.</lex>
@@ -692,24 +692,24 @@
     </entry>
     <entry category="Building" eid="Id47" size="2">
       <originaltripleset>
-        <otriple>300 North LaSalle | floor count | "60"^^xsd:positiveInteger</otriple>
-        <otriple>300 North LaSalle | completion date | 2009</otriple>
+        <otriple>300_North_LaSalle | floorCount | "60"^^xsd:positiveInteger</otriple>
+        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>300 North LaSalle | completion date | 2009</otriple>
-        <otriple>300 North LaSalle | floor count | 60</otriple>
+        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
+        <otriple>300_North_LaSalle | floorCount | 60</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>300 North LaSalle | building end date | "2009"</otriple>
-        <otriple>300 North LaSalle | floor count | "60"^^xsd:positiveInteger</otriple>
+        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
+        <otriple>300_North_LaSalle | floorCount | "60"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>300 North LaSalle | building end date | "2009"</otriple>
-        <otriple>300 North LaSalle | floor count | 60</otriple>
+        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
+        <otriple>300_North_LaSalle | floorCount | 60</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>300 North LaSalle | floor count | 60</mtriple>
-        <mtriple>300 North LaSalle | completion date | 2009</mtriple>
+        <mtriple>300_North_LaSalle | floorCount | 60</mtriple>
+        <mtriple>300_North_LaSalle | completionDate | 2009</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle has 60 floors and was completed in 2009.</lex>
       <lex comment="good" lid="Id2">There are 60 floors at 300 North LaSalle, a building that was completed in 2009.</lex>
@@ -743,11 +743,11 @@
     <entry category="Building" eid="Id50" size="2">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
-        <otriple>Chicago | is part of | Cook County, Illinois</otriple>
+        <otriple>Chicago | isPartOf | Cook_County,_Illinois</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>300_North_LaSalle | location | Chicago</mtriple>
-        <mtriple>Chicago | is part of | Cook County, Illinois</mtriple>
+        <mtriple>Chicago | isPartOf | Cook_County,_Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Cook County, Chicago, Illinois.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is in Chicago in Cook County, Illinois.</lex>
@@ -756,11 +756,11 @@
     <entry category="Building" eid="Id51" size="2">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
-        <otriple>Chicago | is part of | DuPage County, Illinois</otriple>
+        <otriple>Chicago | isPartOf | DuPage_County,_Illinois</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>300_North_LaSalle | location | Chicago</mtriple>
-        <mtriple>Chicago | is part of | DuPage County, Illinois</mtriple>
+        <mtriple>Chicago | isPartOf | DuPage_County,_Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is in Chicago part of Du Page County in Illinois.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, which is part of DuPage County, Illinois.</lex>
@@ -769,11 +769,11 @@
     <entry category="Building" eid="Id52" size="2">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
-        <otriple>Chicago | is part of | Illinois</otriple>
+        <otriple>Chicago | isPartOf | Illinois</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>300_North_LaSalle | location | Chicago</mtriple>
-        <mtriple>Chicago | is part of | Illinois</mtriple>
+        <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is in Chciago, in the State of Illinois.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, Illinois.</lex>
@@ -782,11 +782,11 @@
     <entry category="Building" eid="Id53" size="2">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
-        <otriple>Chicago | leader name | Rahm Emanuel</otriple>
+        <otriple>Chicago | leaderName | Rahm_Emanuel</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>300_North_LaSalle | location | Chicago</mtriple>
-        <mtriple>Chicago | leader name | Rahm Emanuel</mtriple>
+        <mtriple>Chicago | leaderName | Rahm_Emanuel</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago which is lead by Rahm Emanuel.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, whose leader is called Rahm Emanuel.</lex>
@@ -795,11 +795,11 @@
     <entry category="Building" eid="Id54" size="2">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
-        <otriple>Chicago | leader name | Susana Mendoza</otriple>
+        <otriple>Chicago | leaderName | Susana_Mendoza</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>300_North_LaSalle | location | Chicago</mtriple>
-        <mtriple>Chicago | leader name | Susana Mendoza</mtriple>
+        <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago where Susana Mendoza is a leader.</lex>
       <lex comment="good" lid="Id2">The leader of Chicago is Susana Mendoza and 300 North LaSalle is also located in that city.</lex>
@@ -821,11 +821,11 @@
     <entry category="Building" eid="Id56" size="2">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Illinois</otriple>
-        <otriple>300 North LaSalle | building end date | "2009"</otriple>
+        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>300_North_LaSalle | location | Illinois</mtriple>
-        <mtriple>300 North LaSalle | completion date | 2009</mtriple>
+        <mtriple>300_North_LaSalle | completionDate | 2009</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle, Illinois, was completed in 2009.</lex>
       <lex comment="good" lid="Id2">300 North Lasalle was completed in 2009 and is located in Illinois.</lex>
@@ -845,44 +845,44 @@
     </entry>
     <entry category="Building" eid="Id58" size="2">
       <originaltripleset>
-        <otriple>320 South Boston Building | floor count | "22"^^xsd:positiveInteger</otriple>
-        <otriple>320 South Boston Building | completion date | 1929</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>320 South Boston Building | building end date | "1929"</otriple>
-        <otriple>320 South Boston Building | floor count | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>320 South Boston Building | building end date | "1929"</otriple>
-        <otriple>320 South Boston Building | floor count | 22</otriple>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>320 South Boston Building | completion date | 1929</otriple>
-        <otriple>320 South Boston Building | floor count | 22</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>320 South Boston Building | completion date | 1929</mtriple>
-        <mtriple>320 South Boston Building | floor count | 22</mtriple>
+        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Completed in 1929, 320 South Boston Building has 22 floors.</lex>
       <lex comment="good" lid="Id2">320 South Boston Building was completed in 1929 and has 22 floors.</lex>
     </entry>
     <entry category="Building" eid="Id59" size="2">
       <originaltripleset>
-        <otriple>320 South Boston Building | floor count | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
         <otriple>320_South_Boston_Building | height | "121.92"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
-        <otriple>320 South Boston Building | floor count | 22</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
-        <otriple>320 South Boston Building | floor count | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>320_South_Boston_Building | height | 121.92 (metres)</mtriple>
-        <mtriple>320 South Boston Building | floor count | 22</mtriple>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 320 South Boston Building is 121.92 metres tall and has 22 floors.</lex>
       <lex comment="good" lid="Id2">The 320 South Boston Building has a height of 121.92 metres and has 22 floors.</lex>
@@ -890,16 +890,16 @@
     </entry>
     <entry category="Building" eid="Id60" size="2">
       <originaltripleset>
-        <otriple>3Arena | building end date | "December 2008"</otriple>
+        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
         <otriple>3Arena | architect | "HOK SVE"@en</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>3Arena | architect | "HOK SVE"@en</otriple>
-        <otriple>3Arena | completion date | "December 2008"@en</otriple>
+        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>3Arena | architect | "HOK SVE"</mtriple>
-        <mtriple>3Arena | completion date | "December 2008"</mtriple>
+        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">HOK SVE was the architect of the 3Arena, and it was completed in December 2008.</lex>
       <lex comment="good" lid="Id2">HOK SVE was the architect of 3Arena which was completed in December 2008.</lex>
@@ -908,15 +908,15 @@
     <entry category="Building" eid="Id61" size="2">
       <originaltripleset>
         <otriple>3Arena | architect | Populous_(company)</otriple>
-        <otriple>3Arena | building end date | "December 2008"</otriple>
+        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>3Arena | architect | Populous_(company)</otriple>
-        <otriple>3Arena | completion date | "December 2008"@en</otriple>
+        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>3Arena | architect | Populous_(company)</mtriple>
-        <mtriple>3Arena | completion date | "December 2008"</mtriple>
+        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3Arena was completed on December 2008 and it's architect was the company Populous.</lex>
       <lex comment="good" lid="Id2">The 3Arena was completed in December 2008 and was designed by the company Populous.</lex>
@@ -987,15 +987,15 @@
     <entry category="Building" eid="Id67" size="2">
       <originaltripleset>
         <otriple>3Arena | location | Dublin</otriple>
-        <otriple>Dublin | subdivision name | Leinster</otriple>
+        <otriple>Dublin | subdivisionName | Leinster</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>3Arena | location | Dublin</otriple>
-        <otriple>Dublin | is part of | Leinster</otriple>
+        <otriple>Dublin | isPartOf | Leinster</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>3Arena | location | Dublin</mtriple>
-        <mtriple>Dublin | is part of | Leinster</mtriple>
+        <mtriple>Dublin | isPartOf | Leinster</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3 Arena is in Dublin which is part of Leinster.</lex>
       <lex comment="good" lid="Id2">Located in Dublin, a part of Leinster, is the 3Arena.</lex>
@@ -1043,11 +1043,11 @@
     <entry category="Building" eid="Id71" size="2">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
-        <otriple>AC Hotel Bella Sky Copenhagen | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</mtriple>
-        <mtriple>AC Hotel Bella Sky Copenhagen | floor count | 23</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of the AC Hotel Bella Sky, Copenhagen, which has 23 floors, was 3XN.</lex>
       <lex comment="good" lid="Id2">The AC Hotel Bella Sky in Copenhagen, which has 23 floors, was designed by the architects of the 3XN firm.</lex>
@@ -1056,15 +1056,15 @@
     <entry category="Building" eid="Id72" size="2">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center</otriple>
-        <otriple>AC Hotel Bella Sky Copenhagen | number of rooms | "814"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | numberOfRooms | "814"^^xsd:nonNegativeInteger</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>AC Hotel Bella Sky Copenhagen | number of rooms | 814</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | numberOfRooms | 814</otriple>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center</mtriple>
-        <mtriple>AC Hotel Bella Sky Copenhagen | number of rooms | 814</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | numberOfRooms | 814</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky, Copenhagen, which has 814 rooms was developed by the Bella Center.</lex>
       <lex comment="good" lid="Id2">Bella Center were developers of AC Hotel Bella Sky Copenhagen which has 814 rooms.</lex>
@@ -1102,11 +1102,11 @@
     <entry category="Building" eid="Id75" size="2">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
-        <otriple>AC Hotel Bella Sky Copenhagen | floor count | "23"^^xsd:positiveInteger</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</mtriple>
-        <mtriple>AC Hotel Bella Sky Copenhagen | floor count | 23</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The owner of the AC Hotel Bella Sky Copenhagen (which has 23 floors) is Bella Center.</lex>
       <lex comment="good" lid="Id2">The owner of the 23 floor AC Hotel Bella Sky Copenhagen is Bella Center.</lex>
@@ -1115,15 +1115,15 @@
     <entry category="Building" eid="Id76" size="2">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
-        <otriple>Marriott International | key people | Bill Marriott</otriple>
+        <otriple>Marriott_International | keyPeople | Bill_Marriott</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Marriott International | key person | Bill Marriott</otriple>
+        <otriple>Marriott_International | keyPerson | Bill_Marriott</otriple>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
-        <mtriple>Marriott International | key person | Bill Marriott</mtriple>
+        <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International, with Bill Marriott as a key leader, is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
       <lex comment="good" lid="Id2">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, one of whose key people is Bill Marriott.</lex>
@@ -1132,18 +1132,18 @@
     <entry category="Building" eid="Id77" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | location | Adare</otriple>
-        <otriple>Adare | subdivision name | Munster</otriple>
+        <otriple>Adare | subdivisionName | Munster</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adare | is part of | Munster</otriple>
-        <otriple>Adare Manor | location town | Adare</otriple>
+        <otriple>Adare | isPartOf | Munster</otriple>
+        <otriple>Adare_Manor | locationTown | Adare</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | location | Adare</otriple>
-        <otriple>Adare | is part of | Munster</otriple>
+        <otriple>Adare | isPartOf | Munster</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adare | is part of | Munster</mtriple>
+        <mtriple>Adare | isPartOf | Munster</mtriple>
         <mtriple>Adare_Manor | location | Adare</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manore is located in Adare which is a part of Munster.</lex>
@@ -1153,15 +1153,15 @@
     <entry category="Building" eid="Id78" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | "James Pain and George Richard Pain,"@en</otriple>
-        <otriple>Adare Manor | completion date | 1862</otriple>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | architect | "James Pain and George Richard Pain,"@en</otriple>
-        <otriple>Adare Manor | building end date | "1862"</otriple>
+        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | "James Pain and George Richard Pain,"</mtriple>
-        <mtriple>Adare Manor | completion date | 1862</mtriple>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architects James Pain and George Richard Pain designed Adare Manor, which was completed in 1862.</lex>
       <lex comment="good" lid="Id2">James Pain and George Richard Pain are the architects of the Adare Manor, completed in 1862.</lex>
@@ -1170,15 +1170,15 @@
     <entry category="Building" eid="Id79" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
-        <otriple>Adare Manor | building end date | "1862"</otriple>
+        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adare Manor | completion date | 1862</otriple>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
         <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | Augustus_Pugin</mtriple>
-        <mtriple>Adare Manor | completion date | 1862</mtriple>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of Adare Manor, completed in 1862, was Augustus Pugin.</lex>
       <lex comment="good" lid="Id2">The architect of Adare Manor was Augustus Pugin and the building was completed in 1862.</lex>
@@ -1186,11 +1186,11 @@
     <entry category="Building" eid="Id80" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
-        <otriple>Augustus Pugin | birth place | Bloomsbury</otriple>
+        <otriple>Augustus_Pugin | birthPlace | Bloomsbury</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | Augustus_Pugin</mtriple>
-        <mtriple>Augustus Pugin | birth place | Bloomsbury</mtriple>
+        <mtriple>Augustus_Pugin | birthPlace | Bloomsbury</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of Adare Manor is Augustus Pugin, whose birthplace is Bloomsbury.</lex>
       <lex comment="good" lid="Id2">Augustus Pugin, the architect of Adare Manor, was born in Bloomsbury.</lex>
@@ -1199,31 +1199,31 @@
     <entry category="Building" eid="Id81" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
-        <otriple>Augustus Pugin | significant buildings | Palace of Westminster</otriple>
+        <otriple>Augustus_Pugin | significantBuildings | Palace_of_Westminster</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
-        <otriple>Augustus Pugin | significant building | Palace of Westminster</otriple>
+        <otriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | Augustus_Pugin</mtriple>
-        <mtriple>Augustus Pugin | significant building | Palace of Westminster</mtriple>
+        <mtriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of Adare Manor is Augustus Pugin, who also designed the Palace Of Westminster.</lex>
       <lex comment="good" lid="Id2">August Pugin was the architect of Adare Manor and the Palace of Westminster.</lex>
     </entry>
     <entry category="Building" eid="Id82" size="2">
       <originaltripleset>
-        <otriple>Adare Manor | completion date | 1862</otriple>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
         <otriple>Adare_Manor | architect | James_Pain</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | architect | James_Pain</otriple>
-        <otriple>Adare Manor | building end date | "1862"</otriple>
+        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | James_Pain</mtriple>
-        <mtriple>Adare Manor | completion date | 1862</mtriple>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Pain was the architect of Adare Manor, which was completed in 1862.</lex>
       <lex comment="good" lid="Id2">The architect of Adare Manor was James Pain and the construction of the building was completed in 1862.</lex>
@@ -1231,15 +1231,15 @@
     <entry category="Building" eid="Id83" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</otriple>
-        <otriple>Adare Manor | building end date | "1862"</otriple>
+        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</otriple>
-        <otriple>Adare Manor | completion date | 1862</otriple>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</mtriple>
-        <mtriple>Adare Manor | completion date | 1862</mtriple>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor, designed by Lewis Cottingham, was completed in 1862.</lex>
       <lex comment="good" lid="Id2">Adare Manor was designed by Lewis Nockalls Cottingham and was completed in 1862.</lex>
@@ -1248,15 +1248,15 @@
     <entry category="Building" eid="Id84" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | Philip_Charles_Hardwick</otriple>
-        <otriple>Adare Manor | completion date | 1862</otriple>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adare_Manor | architect | Philip_Charles_Hardwick</otriple>
-        <otriple>Adare Manor | building end date | "1862"</otriple>
+        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | architect | Philip_Charles_Hardwick</mtriple>
-        <mtriple>Adare Manor | completion date | 1862</mtriple>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect responsible for Adare Manor was Philip Charles Hardwick and the building was completed in 1862.</lex>
       <lex comment="good" lid="Id2">Philip Charles Hardwick was the architect of Adare Manor which was completed in 1862.</lex>
@@ -1264,12 +1264,12 @@
     </entry>
     <entry category="Building" eid="Id85" size="2">
       <originaltripleset>
-        <otriple>Adare Manor | location country | Republic of Ireland</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
         <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
-        <mtriple>Republic of Ireland | leader name | Enda Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | leaderName | Enda_Kenny</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Enda Kenny is the leader of the Republic of Ireland where Adare Manor is located.</lex>
       <lex comment="good" lid="Id2">Enda Kenny is the leader of the Rebulic of Ireland where Adare Manor is located.</lex>
@@ -1277,11 +1277,11 @@
     </entry>
     <entry category="Building" eid="Id86" size="2">
       <originaltripleset>
-        <otriple>Addis Ababa | is part of | Addis Ababa Stadium</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
         <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa | is part of | Addis Ababa Stadium</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Both the Addis Ababa Stadium and the Addis Ababa City Hall are located in Addis Ababa.</lex>
@@ -1289,16 +1289,16 @@
       </entry>
     <entry category="Building" eid="Id87" size="2">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | start date | 1961</otriple>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | start date | 1961</otriple>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | building start date | 1961</mtriple>
-        <mtriple>Addis Ababa City Hall | floor area | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City hall began being constructed in 1961 and has a floor area of 140000.0 square metres.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall began construction in 1961 and has a floor area of 140000.0 square metres.</lex>
@@ -1306,16 +1306,16 @@
     </entry>
     <entry category="Building" eid="Id88" size="2">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | completion date | 1964</otriple>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | completion date | 1964</otriple>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | completion date | 1964</mtriple>
-        <mtriple>Addis Ababa City Hall | floor area | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Adaba City Hall was completed in 1964 and has a floor area of 140000.0 square metres.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall, with a 140000.0 (square metres) floor area, was completed in 1964.</lex>
@@ -1337,7 +1337,7 @@
     <entry category="Building" eid="Id90" size="2">
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-        <otriple>Ethiopia | official language | Amharic</otriple>
+        <otriple>Ethiopia | officialLanguage | Amharic</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
@@ -1353,16 +1353,16 @@
     </entry>
     <entry category="Building" eid="Id91" size="2">
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | current tenants | "Government of Addis Ababa"@en</otriple>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Addis Ababa City Hall | current tenants | "Government of Addis Ababa"@en</otriple>
-        <otriple>Addis Ababa City Hall | floor area | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Addis Ababa City Hall | current tenants | "Government of Addis Ababa"</mtriple>
-        <mtriple>Addis Ababa City Hall | floor area | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addis Ababa City Hall is where the Government of Addis Ababa is currently located and it's floor area covers 140000.0 (square metres).</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall has a floor area of 140000.0 square metres and its current tenants are the Government of Addis Ababa.</lex>
@@ -1383,11 +1383,11 @@
     </entry>
     <entry category="Building" eid="Id93" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | architectural style | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
         <otriple>Adisham_Hall | location | Haputale</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | architectural style | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
         <mtriple>Adisham_Hall | location | Haputale</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall whose architectural style is Tudor and Jacabian is located in Haputale.</lex>
@@ -1396,11 +1396,11 @@
     </entry>
     <entry category="Building" eid="Id94" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | architectural style | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
         <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | architectural style | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
         <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall which is located in Sri Lanka has the architectural style of Tudor and Jacobean.</lex>
@@ -1409,11 +1409,11 @@
     </entry>
     <entry category="Building" eid="Id95" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | architectural style | Tudor Revival architecture</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
         <otriple>Adisham_Hall | location | Haputale</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | architectural style | Tudor Revival architecture</mtriple>
+        <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
         <mtriple>Adisham_Hall | location | Haputale</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall has the Tudor Revival architectural style, and it is located in Haputale.</lex>
@@ -1422,22 +1422,22 @@
     </entry>
     <entry category="Building" eid="Id96" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | building end date | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
         <otriple>Adisham_Hall | location | Haputale</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adisham Hall | completion date | 1931</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
         <otriple>Adisham_Hall | location | Haputale</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adisham Hall | completion date | 1931</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
         <mtriple>Adisham_Hall | location | Haputale</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall, Haputale was completed in 1931.</lex>
       </entry>
     <entry category="Building" eid="Id97" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | location country | Sri Lanka</otriple>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
         <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
       </originaltripleset>
       <originaltripleset>
@@ -1453,7 +1453,7 @@
     </entry>
     <entry category="Building" eid="Id98" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | location country | Sri Lanka</otriple>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
         <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
       </originaltripleset>
       <modifiedtripleset>
@@ -1470,36 +1470,36 @@
         <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adisham Hall | location country | Sri Lanka</otriple>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
         <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Adisham Hall | location country | Sri Lanka</otriple>
-        <otriple>Sri Lanka | leader name | Ranil Wickremesinghe</otriple>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
-        <otriple>Sri Lanka | leader name | Ranil Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
-        <mtriple>Sri Lanka | leader name | Ranil Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in the country of Sri Lanka, which is lead by Ranil Wickremesinghe.</lex>
     </entry>
     <entry category="Building" eid="Id100" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | completion date | 1931</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
         <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
-        <otriple>Adisham Hall | building end date | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
-        <mtriple>Adisham Hall | completion date | 1931</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Admisham Hall is in Haputale, Sri Lanka and was completed in 1931.</lex>
       <lex comment="good" lid="Id2">Adisham Hall in Haputale, Sri Lanka, was finished in 1931.</lex>
@@ -1507,16 +1507,16 @@
     </entry>
     <entry category="Building" eid="Id101" size="2">
       <originaltripleset>
-        <otriple>Adisham Hall | completion date | 1931</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
         <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
-        <otriple>Adisham Hall | building end date | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
-        <mtriple>Adisham Hall | completion date | 1931</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The construction of Adisham Hall, Sri Lanka, was completed in 1931.</lex>
       <lex comment="good" lid="Id2">Adisham Hall was completed in 1931 and is located in Sri Lanka.</lex>
@@ -1525,11 +1525,11 @@
     <entry category="Building" eid="Id102" size="2">
       <originaltripleset>
         <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
-        <otriple>Sri Lanka | leader name | Ranil Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
-        <mtriple>Sri Lanka | leader name | Ranil Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ranil Wickremesinghe is a leader in Sri Lanka where Adisham Hall is located.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is in Sri Lanka whose leader is Ranil Wickremesinghe.</lex>
@@ -1541,10 +1541,10 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | country | Japan</otriple>
-        <otriple>Akita Museum of Art | location town | Akita, Akita</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art | location country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationCountry | Japan</otriple>
         <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
       </originaltripleset>
       <modifiedtripleset>
@@ -1558,14 +1558,14 @@
     <entry category="Building" eid="Id104" size="2">
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | country | Japan</otriple>
-        <otriple>Akita Museum of Art | location town | Akita Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | country | Japan</otriple>
         <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art | location country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationCountry | Japan</otriple>
         <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
@@ -1578,24 +1578,24 @@
     </entry>
     <entry category="Building" eid="Id105" size="2">
       <originaltripleset>
-        <otriple>Akita Museum of Art | floor count | "3"^^xsd:positiveInteger</otriple>
-        <otriple>Akita Museum of Art | floor area | "3746.66"^^xsd:double</otriple>
+        <otriple>Akita_Museum_of_Art | floorCount | "3"^^xsd:positiveInteger</otriple>
+        <otriple>Akita_Museum_of_Art | floorArea | "3746.66"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art | floor count | 3</otriple>
-        <otriple>Akita Museum of Art | floor area | "3746.66"^^xsd:double</otriple>
+        <otriple>Akita_Museum_of_Art | floorCount | 3</otriple>
+        <otriple>Akita_Museum_of_Art | floorArea | "3746.66"^^xsd:double</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art | floor count | "3"^^xsd:positiveInteger</otriple>
-        <otriple>Akita Museum of Art | floor area | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Akita_Museum_of_Art | floorCount | "3"^^xsd:positiveInteger</otriple>
+        <otriple>Akita_Museum_of_Art | floorArea | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akita Museum of Art | floor count | 3</otriple>
-        <otriple>Akita Museum of Art | floor area | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Akita_Museum_of_Art | floorCount | 3</otriple>
+        <otriple>Akita_Museum_of_Art | floorArea | "3746.66"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Akita Museum of Art | floor count | 3</mtriple>
-        <mtriple>Akita Museum of Art | floor area | 3746.66 (square metres)</mtriple>
+        <mtriple>Akita_Museum_of_Art | floorCount | 3</mtriple>
+        <mtriple>Akita_Museum_of_Art | floorArea | 3746.66 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art has 3 floors and 3746.66 square metres of floor area.</lex>
       <lex comment="good" lid="Id2">The Akita Museum has 3 floors and an area of 3746.66(square meters).</lex>
@@ -1603,7 +1603,7 @@
     </entry>
     <entry category="Building" eid="Id106" size="2">
       <originaltripleset>
-        <otriple>Akita Museum of Art | location town | Akita, Akita</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
         <otriple>Akita,_Akita | country | Japan</otriple>
       </originaltripleset>
       <originaltripleset>
@@ -1619,12 +1619,12 @@
     </entry>
     <entry category="Building" eid="Id107" size="2">
       <originaltripleset>
-        <otriple>Akita Museum of Art | location town | Akita, Akita</otriple>
-        <otriple>Akita, Akita | is part of | Akita Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | isPartOf | Akita_Prefecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
-        <mtriple>Akita, Akita | is part of | Akita Prefecture</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art is located in Akita, Akita, part of Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">Akita Museum of Art is an art museum in the city of Akita, and is part of Akita Prefecture.</lex>
@@ -1632,12 +1632,12 @@
     </entry>
     <entry category="Building" eid="Id108" size="2">
       <originaltripleset>
-        <otriple>Akita Museum of Art | location town | Akita, Akita</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
         <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
-        <otriple>Akita Museum of Art | location town | Akita Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
@@ -1654,7 +1654,7 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Akita_Prefecture | country | Japan</otriple>
-        <otriple>Akita Museum of Art | location town | Akita Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Akita_Prefecture | country | Japan</mtriple>
@@ -1667,14 +1667,14 @@
     <entry category="Building" eid="Id110" size="2">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
-        <otriple>Alan B. Miller Hall | building end date | "1 June 2009"</otriple>
+        <otriple>Alan_B._Miller_Hall | buildingEndDate | "1 June 2009"</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | completion date | "2009-06-01"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date</otriple>
         <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | completion date | "1 June 2009"</mtriple>
+        <mtriple>Alan_B._Miller_Hall | completionDate | "1 June 2009"</mtriple>
         <mtriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B. Miller Hall is at 101 Ukrop Way and was completed on 1 June 2009.</lex>
@@ -1682,11 +1682,11 @@
     </entry>
     <entry category="Building" eid="Id111" size="2">
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | current tenants | Mason School of Business</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
         <otriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | current tenants | Mason School of Business</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
         <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant.</lex>
@@ -1695,15 +1695,15 @@
     </entry>
     <entry category="Building" eid="Id112" size="2">
       <originaltripleset>
-        <otriple>Alan B. Miller Hall | inauguration date | "2009-10-02"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"^^xsd:date</otriple>
         <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
-        <otriple>Alan B. Miller Hall | opening date | "2009-10-02"^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | openingDate | "2009-10-02"^^xsd:date</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Alan B. Miller Hall | inauguration date | "2009-10-02"</mtriple>
+        <mtriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"</mtriple>
         <mtriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall (which was inaugurated on 2009-10-02) has the address "101 Ukrop Way".</lex>
@@ -1751,7 +1751,7 @@
     <entry category="Building" eid="Id116" size="2">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"@en</otriple>
-        <otriple>Amdavad ni Gufa | location town | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"</mtriple>
@@ -1763,20 +1763,20 @@
     </entry>
     <entry category="Building" eid="Id117" size="2">
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
-        <otriple>India | leader name | Narendra Modi</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>India | leader | Narendra_Modi</otriple>
         <otriple>Amdavad_ni_Gufa | country | India</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
         <otriple>India | leader | Narendra_Modi</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
-        <mtriple>India | leader name | Narendra Modi</mtriple>
+        <mtriple>India | leaderName | Narendra_Modi</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The prime minister of India is Narendra Modi and Amdavad ni Gufa is also located in India.</lex>
       </entry>
@@ -1786,12 +1786,12 @@
         <otriple>India | leader | Sumitra_Mahajan</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
         <otriple>India | leader | Sumitra_Mahajan</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
-        <mtriple>India | leader name | Sumitra Mahajan</mtriple>
+        <mtriple>India | leaderName | Sumitra_Mahajan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sumitra Mahajan is the leader of India where Amdavad ni Gufa is found.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa is located in India, the country which has Sumitra Mahajan as one of its leaders.</lex>
@@ -1799,16 +1799,16 @@
     </entry>
     <entry category="Building" eid="Id119" size="2">
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
         <otriple>Amdavad_ni_Gufa | country | India</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
         <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Ahmedabad</otriple>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
@@ -1821,14 +1821,14 @@
     <entry category="Building" eid="Id120" size="2">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Gujarat</otriple>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
         <otriple>Amdavad_ni_Gufa | country | India</otriple>
       </originaltripleset>
       <modifiedtripleset>
@@ -1840,10 +1840,10 @@
     <entry category="Building" eid="Id121" size="2">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
-        <otriple>Amdavad ni Gufa | location town | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Amdavad ni Gufa | location town | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
         <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
       </originaltripleset>
       <modifiedtripleset>
@@ -1861,19 +1861,19 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Ampara Hospital | bed count | "476"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Ampara_Hospital | beds | 476</otriple>
         <otriple>Ampara_Hospital | country | "Sri Lanka"@en</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Ampara Hospital | bed count | "476"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
         <otriple>Ampara_Hospital | country | "Sri Lanka"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
-        <mtriple>Ampara Hospital | bed count | 476</mtriple>
+        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital (bed count 476) is located in Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Ampara Hospital, with a count of 473 beds, is in Sri Lanka.</lex>
@@ -1916,7 +1916,7 @@
     <entry category="Building" eid="Id125" size="2">
       <originaltripleset>
         <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Sri Lanka | leader name | Ranil Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
@@ -1924,7 +1924,7 @@
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
-        <mtriple>Sri Lanka | leader name | Ranil Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is in Sri Lanka, whose leader is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2">Sri Lanka's leader is Ranil Wickremesinghe and it is home to the Ampara Hospital.</lex>
@@ -1933,15 +1933,15 @@
     <entry category="Building" eid="Id126" size="2">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
-        <otriple>Alfred Giles (architect) | birth place | England</otriple>
+        <otriple>Alfred_Giles_(architect) | birthPlace | England</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
-        <otriple>Alfred Giles (architect) | place of birth | England</otriple>
+        <otriple>Alfred_Giles_(architect) | placeOfBirth | England</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</mtriple>
-        <mtriple>Alfred Giles (architect) | birth place | England</mtriple>
+        <mtriple>Alfred_Giles_(architect) | birthPlace | England</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of Asher and Mary Isabelle Richardson House was Alfred Giles, who was born in England.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles, who was born in England.</lex>
@@ -1950,11 +1950,11 @@
     <entry category="Building" eid="Id127" size="2">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
-        <otriple>Alfred Giles (architect) | place of death | Kendall County, Texas</otriple>
+        <otriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</mtriple>
-        <mtriple>Alfred Giles (architect) | place of death | Kendall County, Texas</mtriple>
+        <mtriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Giles was the architect of Asher and Mary Isabelle Richardson House and died in Kendall County, Texas.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles who died in Kendall County, Texas.</lex>
@@ -1963,15 +1963,15 @@
     <entry category="Building" eid="Id128" size="2">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
-        <otriple>Asher and Mary Isabelle Richardson House | nrhp reference number | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
-        <otriple>Asher and Mary Isabelle Richardson House | nrhp reference number | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
-        <mtriple>Asher and Mary Isabelle Richardson House |  reference number in the  national  register of  historic  places | "88002539"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House, located in Asherton, Texas, has the reference number 88002539 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House is located in Asherton Texas and has a reference number of 88002539 in the National Register of Historic Places.</lex>
@@ -1988,15 +1988,15 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
-        <otriple>Asher and Mary Isabelle Richardson House | year of construction | "1911"^^xsd:gYear</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
-        <otriple>Asher and Mary Isabelle Richardson House | year of construction | "1911"^^xsd:gYear</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
-        <mtriple>Asher and Mary Isabelle Richardson House | year of construction | 1911</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asher and Mary Isabelle House, constructed in 1911, is located in Asherton, Texas.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House, built in 1911. is located in Asherton, Texas.</lex>
@@ -2009,7 +2009,7 @@
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
-        <mtriple>Asher and Mary Isabelle Richardson House | added to the  national  register of  historic  places | "1988-11-22"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was added to the National Register of Historic Places on 1988-11-22.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House is at U.S. Route 83 and was added to the National Register of Historic Places on November 22, 1988.</lex>
@@ -2017,7 +2017,7 @@
     <entry category="Building" eid="Id131" size="2">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
-        <otriple>Asher and Mary Isabelle Richardson House | year of construction | "1911"^^xsd:gYear</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
@@ -2025,7 +2025,7 @@
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
-        <mtriple>Asher and Mary Isabelle Richardson House | year of construction | 1911</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House, built in 1911, is located at U.S. Route 83.</lex>
       <lex comment="good" lid="Id2">The Asher and Mary Isabelle Richardson House is on U.S. Route 83 and was constructed in 1911.</lex>
@@ -2047,14 +2047,14 @@
     <entry category="Building" eid="Id133" size="2">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
-        <otriple>Asherton, Texas | subdivision name | Dimmit County, Texas</otriple>
+        <otriple>Asherton,_Texas | subdivisionName | Dimmit_County,_Texas</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Asherton, Texas | is part of | Dimmit County, Texas</otriple>
+        <otriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</otriple>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asherton, Texas | is part of | Dimmit County, Texas</mtriple>
+        <mtriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</mtriple>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, a part of Dimmit County, Texas.</lex>
@@ -2063,11 +2063,11 @@
     </entry>
     <entry category="Building" eid="Id134" size="2">
       <originaltripleset>
-        <otriple>Asherton, Texas | subdivision name | United States</otriple>
+        <otriple>Asherton,_Texas | subdivisionName | United_States</otriple>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Asherton, Texas | is part of | United States</mtriple>
+        <mtriple>Asherton,_Texas | isPartOf | United_States</mtriple>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is a part of the United States.</lex>
@@ -2077,11 +2077,11 @@
     <entry category="Building" eid="Id135" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | birth place | California</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia Morgan | birth place | California</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan was born in California and is the architect of Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds was designed by Julia Morgan, who was born in California.</lex>
@@ -2089,11 +2089,11 @@
     <entry category="Building" eid="Id136" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | birth place | San Francisco</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia Morgan | birth place | San Francisco</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan from San Francisco was the designer of the Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan, who was born in San Francisco.</lex>
@@ -2101,15 +2101,15 @@
     <entry category="Building" eid="Id137" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | significant building | Asilomar State Beach</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | significant buildings | Asilomar State Beach</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia Morgan | significant building | Asilomar State Beach</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar State Beach is one of the significant buildings designed by architect Julia Morgan, who also designed The Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
@@ -2117,11 +2117,11 @@
     <entry category="Building" eid="Id138" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | significant building | Chinatown, San Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia Morgan | significant building | Chinatown, San Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julie Morgan is the architect of Asilomar Conference Grounds and Chinatown in San Francisco.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was the architect behind Chinatown in San Francisco and the grounds of Asilomar Conference.</lex>
@@ -2130,11 +2130,11 @@
     <entry category="Building" eid="Id139" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | significant building | Los Angeles Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia Morgan | significant building | Los Angeles Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan designed the Asilomar Conference Gardens, and the landmark Los Angeles Herald Examiner building in California.</lex>
       <lex comment="good" lid="Id2">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building, and also designed Asilomar Conference Grounds.</lex>
@@ -2143,15 +2143,15 @@
     <entry category="Building" eid="Id140" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | significant building | Riverside Art Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia Morgan | significant buildings | Riverside Art Museum</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia Morgan | significant building | Riverside Art Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan was the architect of the Asilomar Conference Grounds and The Riverside Art Museum.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was the architect of the grounds of Asilomar Conference and The Riverside Art Musuem.</lex>
@@ -2163,7 +2163,7 @@
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
-        <mtriple>Asilomar Conference Grounds | added to the  national  register of  historic  places | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds, which is located at Asilomar Blvd., Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
@@ -2172,11 +2172,11 @@
     <entry category="Building" eid="Id142" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
-        <otriple>Asilomar Conference Grounds | architectural style | American Craftsman</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
-        <mtriple>Asilomar Conference Grounds | architectural style | American Craftsman</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds, with the American Craftsman architectural style, is located at Asilomar Blvd., Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds, which has the architectural style of American Craftsman, is located at Asilomar Blvd., Pacific Grove, California.</lex>
@@ -2185,7 +2185,7 @@
     <entry category="Building" eid="Id143" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
-        <otriple>Asilomar Conference Grounds | year of construction | "1913"^^xsd:gYear</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
@@ -2193,7 +2193,7 @@
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
-        <mtriple>Asilomar Conference Grounds | year of construction | 1913</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.</lex>
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA.</lex>
@@ -2201,11 +2201,11 @@
     <entry category="Building" eid="Id144" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
-        <otriple>Asilomar Conference Grounds | nrhp reference number | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
-        <mtriple>Asilomar Conference Grounds |  reference number in the  national  register of  historic  places | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is it's reference number in the National Register of Historic Places.</lex>
@@ -2213,11 +2213,11 @@
     <entry category="Building" eid="Id145" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
-        <otriple>Asilomar Conference Grounds | architectural style | Arts and Crafts movement</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
-        <mtriple>Asilomar Conference Grounds | architectural style | Arts and Crafts movement</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds, with an Arts and Crafts movement style architecture, is located at Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds, with an architectural style of the Arts and Crafts Movement, is located in Pacific Grove, California.</lex>
@@ -2230,11 +2230,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
-        <otriple>Asilomar Conference Grounds | year of construction | "1913"^^xsd:gYear</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
-        <mtriple>Asilomar Conference Grounds | year of construction | 1913</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds were constructed in 1913 and are located in Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds, constructed in 1913, is located at Pacific Grove, California.</lex>
@@ -2256,11 +2256,11 @@
     <entry category="Building" eid="Id148" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
-        <otriple>Pacific Grove, California | is part of | California</otriple>
+        <otriple>Pacific_Grove,_California | isPartOf | California</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
-        <mtriple>Pacific Grove, California | is part of | California</mtriple>
+        <mtriple>Pacific_Grove,_California | isPartOf | California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds in Pacific Grove, CA is part of the state of California.</lex>
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds is located at Pacific Grove, which is part of California.</lex>
@@ -2273,11 +2273,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | "Asser Levy Place and East 23rd Street"@en</otriple>
-        <otriple>Asser Levy Public Baths | year of construction | "1904"^^xsd:gYear</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | "Asser Levy Place and East 23rd Street"</mtriple>
-        <mtriple>Asser Levy Public Baths | year of construction | 1904</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asser Levy Public Baths are located in Asser Levy Place on East 23rd Street and were built in 1904.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths, built in 1904, are located on Asser Levy Place and East 23rd Street.</lex>
@@ -2290,11 +2290,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</otriple>
-        <otriple>Asser Levy Public Baths | year of construction | "1904"^^xsd:gYear</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</mtriple>
-        <mtriple>Asser Levy Public Baths | year of construction | 1904</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths located at Avenue A, Manhattan. and constructed in 1904.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths, which was built in 1904, is located in Avenue A, Manhattan.</lex>
@@ -2307,11 +2307,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
-        <otriple>Asser Levy Public Baths | year of construction | "1904"^^xsd:gYear</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
-        <mtriple>Asser Levy Public Baths | year of construction | 1904</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths, built in 1904, is located in Manhattan.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths in Manhattan were constructed in 1904.</lex>
@@ -2319,11 +2319,11 @@
     <entry category="Building" eid="Id152" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
-        <otriple>Manhattan | is part of | New York</otriple>
+        <otriple>Manhattan | isPartOf | New_York</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
-        <mtriple>Manhattan | is part of | New York</mtriple>
+        <mtriple>Manhattan | isPartOf | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths is located in Manhattan, which is a part of New York.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are in Manhattan, New York.</lex>
@@ -2331,11 +2331,11 @@
     <entry category="Building" eid="Id153" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
-        <otriple>Manhattan | leader name | Cyrus Vance, Jr.</otriple>
+        <otriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
-        <mtriple>Manhattan | leader name | Cyrus Vance, Jr.</mtriple>
+        <mtriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is the leader.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is one of the leaders.</lex>
@@ -2343,11 +2343,11 @@
     <entry category="Building" eid="Id154" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
-        <otriple>Manhattan | leader name | Gale Brewer</otriple>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
-        <mtriple>Manhattan | leader name | Gale Brewer</mtriple>
+        <mtriple>Manhattan | leaderName | Gale_Brewer</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.</lex>
       <lex comment="good" lid="Id2">Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.</lex>
@@ -2360,11 +2360,11 @@
       </originaltripleset>
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>Asser Levy Public Baths | year of construction | "1904"^^xsd:gYear</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
-        <mtriple>Asser Levy Public Baths | year of construction | 1904</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asser Levy Public Baths which was built in 1904 is located in New York City.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths (constructed in 1904) are located in New York City.</lex>
@@ -2373,15 +2373,15 @@
     <entry category="Building" eid="Id156" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>New York City | subdivision name | Manhattan</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>New York City | is part of | Manhattan</otriple>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
-        <mtriple>New York City | is part of | Manhattan</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are located in New York City which Manhattan is a part of.</lex>
       <lex comment="good" lid="Id2">The Asser Levy Public Baths are in New York City which is part of Manhattan.</lex>
@@ -2389,11 +2389,11 @@
     <entry category="Building" eid="Id157" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>New York City | is part of | New Netherland</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
-        <mtriple>New York City | is part of | New Netherland</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are in New York City of which New Netherland is a part.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located in New York City, which is part of New Netherland.</lex>
@@ -2401,11 +2401,11 @@
     <entry category="Building" eid="Id158" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>New York City | is part of | New York</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
-        <mtriple>New York City | is part of | New York</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New York City, part of New York, has the Asser Levy Public Baths.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located in New York City, which is part of New York.</lex>
@@ -2425,7 +2425,7 @@
     </entry>
     <entry category="Building" eid="Id160" size="2">
       <originaltripleset>
-        <otriple>Ethiopia | leader name | Hailemariam Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
       </originaltripleset>
       <originaltripleset>
@@ -2433,7 +2433,7 @@
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Ethiopia | leader name | Hailemariam Desalegn</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City Hall is located in the country of Ethiopia which is lead by Hailemariam Desalegn.</lex>
@@ -2443,14 +2443,14 @@
     <entry category="Building" eid="Id161" size="2">
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-        <otriple>Ethiopia | leader name | Mulatu Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Ethiopia | leader name | Mulatu Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.</lex>
@@ -2460,7 +2460,7 @@
     <entry category="Building" eid="Id162" size="2">
       <originaltripleset>
         <otriple>India | demonym | Indian_people</otriple>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>India | demonym | Indian_people</mtriple>
@@ -2473,18 +2473,18 @@
     <entry category="Building" eid="Id163" size="2">
       <originaltripleset>
         <otriple>India | leader | T._S._Thakur</otriple>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>India | leader name | T. S. Thakur</otriple>
-        <otriple>Amdavad ni Gufa | location country | India</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>India | leader | T._S._Thakur</otriple>
         <otriple>Amdavad_ni_Gufa | country | India</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>India | leader name | T. S. Thakur</mtriple>
+        <mtriple>India | leaderName | T._S._Thakur</mtriple>
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">T S Thakur is the leader of India; also the location of Amdavad ni Gufa.</lex>
@@ -2495,15 +2495,15 @@
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Marriott International | foundation place | Washington, D.C.</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Marriott International | foundation place | Washington, D.C.</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Marriott International | foundation place | Washington, D.C.</mtriple>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
@@ -2530,11 +2530,11 @@
     <entry category="Building" eid="Id166" size="2">
       <originaltripleset>
         <otriple>Mason_School_of_Business | country | United_States</otriple>
-        <otriple>Alan B. Miller Hall | current tenants | Mason School of Business</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Mason_School_of_Business | country | United_States</mtriple>
-        <mtriple>Alan B. Miller Hall | current tenants | Mason School of Business</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.</lex>
       <lex comment="good" lid="Id2">The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.</lex>
@@ -2555,11 +2555,11 @@
     </entry>
     <entry category="Building" eid="Id168" size="2">
       <originaltripleset>
-        <otriple>United States | leader name | Joe Biden</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader name | Joe Biden</mtriple>
+        <mtriple>United_States | leaderName | Joe_Biden</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States, which is led by Joe Biden.</lex>
@@ -2568,22 +2568,22 @@
     </entry>
     <entry category="Building" eid="Id169" size="2">
       <originaltripleset>
-        <otriple>United States | leader name | John Roberts</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader name | John Roberts</mtriple>
+        <mtriple>United_States | leaderName | John_Roberts</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A leader of the United States, which is home to 250 Delaware Avenue, is John Roberts.</lex>
       </entry>
     <entry category="Building" eid="Id170" size="2">
       <originaltripleset>
-        <otriple>United States | leader name | Paul Ryan</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader name | Paul Ryan</mtriple>
+        <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States which is lead by Paul Ryan.</lex>
@@ -2591,11 +2591,11 @@
       </entry>
     <entry category="Building" eid="Id171" size="2">
       <originaltripleset>
-        <otriple>United States | leader title | President of the United States</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>United States | leader title | President of the United States</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located in the USA and it's leader is the President.</lex>
