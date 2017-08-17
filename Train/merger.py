@@ -15,6 +15,6 @@ for root, subFolders, files in os.walk('.'):
 				domain = str(file).split("_")[2]
 			print file, domain
 			with open(os.path.join(root, file), "r+") as f:
-				with open(cwd+"/all_"+domain+".xml","a+") as outfile:
+				with open(cwd+"/ALL.xml","a+") as outfile:
 					outfile.write(f.read())
 
